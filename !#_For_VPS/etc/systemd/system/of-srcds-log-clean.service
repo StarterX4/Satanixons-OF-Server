@@ -1,0 +1,11 @@
+[Unit]
+Description=clear Open Fortress srcds logs
+
+[Service]
+Type=oneshot
+ExecStart=/usr/bin/find /home/steam/sdk2013/open_fortress/{logs,addons/sourcemod/logs} -type f -name "*.log" -mtime +5 | /usr/bin/xargs rm -f
+StandardOutput=null
+
+[Install]
+WantedBy=multi-user.target
+Alias=of-srcds-log-clean.service
