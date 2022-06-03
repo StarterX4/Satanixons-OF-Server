@@ -1,0 +1,11 @@
+[Unit]
+Description=clear ZPS srcds logs
+
+[Service]
+Type=oneshot
+ExecStart=/usr/bin/find /home/steam/zps/zps/{logs,addons/sourcemod/logs} -type f -name "*.log" -mtime +5 | /usr/bin/xargs rm -f
+StandardOutput=null
+
+[Install]
+WantedBy=multi-user.target
+Alias=zps-srcds-log-clean.service
