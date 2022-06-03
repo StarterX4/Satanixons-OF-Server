@@ -7,7 +7,7 @@ SRCDS_USER="steam"
 PATH=/bin:/usr/bin:/sbin:/usr/sbin
 
 # The path to the game, only change this if you have a different installation path than in the guide.
-DIR=/home/steam/zps
+DIR=/home/steam/sdk2013
 DAEMON="$DIR/srcds_run"
 
 # Change all Parameters to your needs.
@@ -36,9 +36,9 @@ DAEMON="$DIR/srcds_run"
 SVNUM=1
 IP=172.31.31.156
 PORT=27016
-NAME=ZPS_Server$SVNUM
-PARAMS="-game zps -ip $IP -port $PORT +sv_clockcorrection_msecs 25 -timeout 10 -tickrate 108 +map zps_asylum -maxplayers 32 +servercfgfile server$SVNUM.cfg"
-DESC="ZPS Dedicated Server #$SVNUM on port $PORT"
+NAME=OF_Server$SVNUM
+PARAMS="-console -game open_fortress -ip $IP -port $PORT +sv_clockcorrection_msecs 25 -timeout 10 -tickrate 108 +sv_lan 0 +sv_pure -1 -tvdisable +map dm_wiseau -maxplayers 32 +servercfgfile server$SVNUM.cfg"
+DESC="OF Dedicated Server #$SVNUM on port $PORT"
 
 
 ###########################################
