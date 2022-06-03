@@ -37,7 +37,7 @@ SVNUM=1
 IP=172.31.31.156
 PORT=27016
 NAME=OF_Server$SVNUM
-PARAMS="-console -game open_fortress -ip $IP -port $PORT +sv_clockcorrection_msecs 25 -timeout 10 -tickrate 108 +sv_lan 0 +sv_pure -1 -tvdisable +map dm_wiseau -maxplayers 32 +servercfgfile server$SVNUM.cfg"
+PARAMS="-console -game open_fortress -ip $IP -port $PORT +sv_clockcorrection_msecs 25 -timeout 10 -tickrate 108 +sv_lan 0 +sv_pure -1 -tvdisable +map dm_wiseau +mapcyclefile mapcycle.txt -maxplayers 32 +servercfgfile server$SVNUM.cfg"
 DESC="OF Dedicated Server #$SVNUM on port $PORT"
 
 
