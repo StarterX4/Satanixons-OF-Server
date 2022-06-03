@@ -2,7 +2,7 @@
 
 [Unit]
 Documentation=man:systemd-sysv-generator(8)
-SourcePath=/etc/init.d/zps-srcds1
+SourcePath=/etc/init.d/of-srcds1
 
 [Service]
 Type=forking
@@ -12,5 +12,5 @@ IgnoreSIGPIPE=no
 KillMode=process
 GuessMainPID=no
 RemainAfterExit=yes
-ExecStart=/etc/init.d/zps-srcds1 start
-ExecStop=/etc/init.d/zps-srcds1 stop
+ExecStart=/etc/init.d/of-srcds1 start
+ExecStop=/etc/init.d/of-srcds1 stop
