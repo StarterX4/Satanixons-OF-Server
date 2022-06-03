@@ -1,5 +1,5 @@
 [Unit]
-Description=clear ZPS srcds logs every 3 days
+Description=clear OF srcds logs every 3 days
 
 [Timer]
 OnCalendar=*-*-* 5:00
