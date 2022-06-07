@@ -1,28 +1,8 @@
 "Phrases"
 {
-	"Slap player"
+	"Dead Player Rename"
 	{
-		"bg"		"Шамаросване на играч"
-	}
-
-	"Slap damage"
-	{
-		"bg"		"Щети на шамара"
-	}
-
-	"Slay player"
-	{
-		"bg"		"Убиване на играч"
-	}
-
-	"Slapped target"
-	{
-		"bg"		"{1} е шамаросан."
-	}
-
-	"Slayed target"
-	{
-		"bg"		"{1} е убит."
+		"bg"		"{1} ще бъде преименуван следващия рунд."
 	}
 
 	"Name changed"
@@ -30,19 +10,39 @@
 		"bg"		"Администратор Ви смени името."
 	}
 
-	"Renamed target"
-	{
-		"bg"		"{1} е преименуван."
-	}
-
 	"Rename player"
 	{
 		"bg"		"Преименуване на играч"
 	}
 
-	"Dead Player Rename"
+	"Renamed target"
 	{
-		"bg"		"{1} ще бъде преименуван следващия рунд."
+		"bg"		"{1} е преименуван."
+	}
+
+	"Slap damage"
+	{
+		"bg"		"Щети на шамара"
+	}
+
+	"Slap player"
+	{
+		"bg"		"Шамаросване на играч"
+	}
+
+	"Slapped target"
+	{
+		"bg"		"{1} е шамаросан."
+	}
+
+	"Slay player"
+	{
+		"bg"		"Убиване на играч"
+	}
+
+	"Slayed target"
+	{
+		"bg"		"{1} е убит."
 	}
 
 }

@@ -5,19 +5,14 @@
 		"de"		"Du hast bereits eine Karte nominiert."
 	}
 
-	"Max Nominations"
-	{
-		"de"		"Das Maximum der erlaubten Nominierungen wurde erreicht."
-	}
-
 	"Map Already In Vote"
 	{
 		"de"		"Karte '{1}' ist bereits in der Nominierungs-Liste."
 	}
 
-	"Map Inserted"
+	"Max Nominations"
 	{
-		"de"		"Karte '{1}' wurde zur Nominierungs-Liste hinzugefügt. "
+		"de"		"Das Maximum der erlaubten Nominierungen wurde erreicht."
 	}
 
 	"Map Already Nominated"
@@ -45,14 +40,19 @@
 		"de"		"Die ausgewählte Karte ist die aktuelle Karte und kann nicht nominiert werden"
 	}
 
+	"Current Map"
+	{
+		"de"		"Aktuelle Karte"
+	}
+
 	"Map in Exclude List"
 	{
 		"de"		"Die ausgewählte Karte wurde vor kurzem gespielt und kann nicht nominiert werden"
 	}
 
-	"Current Map"
+	"Nominated"
 	{
-		"de"		"Aktuelle Karte"
+		"de"		"Nominiert"
 	}
 
 	"Recently Played"
@@ -60,9 +60,9 @@
 		"de"		"Vor kurzem gespielt"
 	}
 
-	"Nominated"
+	"Map Inserted"
 	{
-		"de"		"Nominiert"
+		"de"		"Karte '{1}' wurde zur Nominierungs-Liste hinzugefügt. "
 	}
 
 }

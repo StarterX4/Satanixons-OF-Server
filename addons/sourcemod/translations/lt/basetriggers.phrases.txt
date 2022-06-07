@@ -25,44 +25,9 @@
 		"lt"		"Šiuo metu žaidžiamas žemėlapis {1}."
 	}
 
-	"LastRound"
+	"FragLimit"
 	{
-		"lt"		"Tai paskutinis raundas!"
-	}
-
-	"NoTimelimit"
-	{
-		"lt"		"Žemėlapiui nėra laiko limito"
-	}
-
-	"Next Map"
-	{
-		"lt"		"Sekantis žemėlapis: {1}"
-	}
-
-	"Pending Vote"
-	{
-		"lt"		"Laukiamas balsavimas"
-	}
-
-	"WinLimitAppend"
-	{
-		"lt"		", arba pakeisti žemėlapį, kai komanda laimės vieną raundą"
-	}
-
-	"WinLimit"
-	{
-		"lt"		"Žemėlapis pasikeis, kai komanda laimės vieną raundą"
-	}
-
-	"MaxRoundsAppend"
-	{
-		"lt"		", arba pakeisti žemėlapį po dar vieno raundo"
-	}
-
-	"MaxRounds"
-	{
-		"lt"		"Žemėlapis pasikeis po dar vieno raundo"
+		"lt"		"Žemėlapis pasikeis, kai žaidėjas nušaus vieną priešininką"
 	}
 
 	"FragLimitAppend"
@@ -70,19 +35,29 @@
 		"lt"		", arba pakeisti žemėlapį, kai žaidėjas nušaus vieną priešininką"
 	}
 
-	"FragLimit"
+	"FragLimitAppendPlural"
 	{
-		"lt"		"Žemėlapis pasikeis, kai žaidėjas nušaus vieną priešininką"
+		"lt"		", arba pakeisti žemėlapį, kai žaidėjas nušaus {1} priešininką(ų)"
 	}
 
-	"WinLimitAppendPlural"
+	"FragLimitPlural"
 	{
-		"lt"		", arba pakeisti žemėlapį, kai komanda laimės {1} raundą(ų)"
+		"lt"		"Žemėlapis pasikeis, kai žaidėjas nušaus {1} priešininką(ų)"
 	}
 
-	"WinLimitPlural"
+	"LastRound"
 	{
-		"lt"		"Žemėlapis pasikeis, kai komanda laimės {1} raundą(us)"
+		"lt"		"Tai paskutinis raundas!"
+	}
+
+	"MaxRounds"
+	{
+		"lt"		"Žemėlapis pasikeis po dar vieno raundo"
+	}
+
+	"MaxRoundsAppend"
+	{
+		"lt"		", arba pakeisti žemėlapį po dar vieno raundo"
 	}
 
 	"MaxRoundsAppendPlural"
@@ -95,14 +70,39 @@
 		"lt"		"Žemėlapis pasikeis po {1} raundo(ų)"
 	}
 
-	"FragLimitAppendPlural"
+	"Next Map"
 	{
-		"lt"		", arba pakeisti žemėlapį, kai žaidėjas nušaus {1} priešininką(ų)"
+		"lt"		"Sekantis žemėlapis: {1}"
 	}
 
-	"FragLimitPlural"
+	"NoTimelimit"
 	{
-		"lt"		"Žemėlapis pasikeis, kai žaidėjas nušaus {1} priešininką(ų)"
+		"lt"		"Žemėlapiui nėra laiko limito"
+	}
+
+	"Pending Vote"
+	{
+		"lt"		"Laukiamas balsavimas"
+	}
+
+	"WinLimit"
+	{
+		"lt"		"Žemėlapis pasikeis, kai komanda laimės vieną raundą"
+	}
+
+	"WinLimitAppend"
+	{
+		"lt"		", arba pakeisti žemėlapį, kai komanda laimės vieną raundą"
+	}
+
+	"WinLimitAppendPlural"
+	{
+		"lt"		", arba pakeisti žemėlapį, kai komanda laimės {1} raundą(ų)"
+	}
+
+	"WinLimitPlural"
+	{
+		"lt"		"Žemėlapis pasikeis, kai komanda laimės {1} raundą(us)"
 	}
 
 }

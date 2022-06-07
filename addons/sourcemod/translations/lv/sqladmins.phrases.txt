@@ -1,33 +1,13 @@
 "Phrases"
 {
-	"Invalid authtype"
+	"SQL Group not found"
 	{
-		"lv"		"Autorizācijas tipam ir jābūt 'steam', 'name', vai 'ip'. "
+		"lv"		"Grupa ar norādīto nosaukumu netika atrasta."
 	}
 
-	"Invalid immunity"
+	"SQL Group deleted"
 	{
-		"lv"		"Imunitātei ir jābūt pozitīvam skaitlim."
-	}
-
-	"SQL Admin already exists"
-	{
-		"lv"		"Administrators ar uzrādītajiem datiem jau eksistē."
-	}
-
-	"SQL Admin added"
-	{
-		"lv"		"Administrators veiksmīgi pievienots datubāzei."
-	}
-
-	"SQL Admin deleted"
-	{
-		"lv"		"Administrators veiksmīgi izdzēsts no datubāzes."
-	}
-
-	"SQL Admin not found"
-	{
-		"lv"		"Administrators ar uzrādītajiem datiem netika atrasts."
+		"lv"		"Grupa veiksmīgi izdzēsta no datubāzes."
 	}
 
 	"SQL Group already exists"
@@ -40,21 +20,6 @@
 		"lv"		"Grupa veiksmīgi pievienota datubāzei."
 	}
 
-	"SQL Group deleted"
-	{
-		"lv"		"Grupa veiksmīgi izdzēsta no datubāzes."
-	}
-
-	"SQL Group not found"
-	{
-		"lv"		"Grupa ar norādīto nosaukumu netika atrasta."
-	}
-
-	"SQL Admin groups reset"
-	{
-		"lv"		"Administratora grupas ir veiksmīgi atjaunotas."
-	}
-
 	"SQL Group X not found"
 	{
 		"lv"		"Nevar atrast grupu: \"{1}\""
@@ -65,14 +30,49 @@
 		"lv"		"Grupu nevar piesaistīt: \"{1}\""
 	}
 
-	"Added group to user"
+	"SQL Admin not found"
 	{
-		"lv"		"Veiksmīgi pievienota grupa dotajam administratoram."
+		"lv"		"Administrators ar uzrādītajiem datiem netika atrasts."
+	}
+
+	"SQL Admin groups reset"
+	{
+		"lv"		"Administratora grupas ir veiksmīgi atjaunotas."
+	}
+
+	"SQL Admin deleted"
+	{
+		"lv"		"Administrators veiksmīgi izdzēsts no datubāzes."
+	}
+
+	"SQL Admin already exists"
+	{
+		"lv"		"Administrators ar uzrādītajiem datiem jau eksistē."
+	}
+
+	"SQL Admin added"
+	{
+		"lv"		"Administrators veiksmīgi pievienots datubāzei."
+	}
+
+	"Invalid immunity"
+	{
+		"lv"		"Imunitātei ir jābūt pozitīvam skaitlim."
+	}
+
+	"Invalid authtype"
+	{
+		"lv"		"Autorizācijas tipam ir jābūt 'steam', 'name', vai 'ip'. "
 	}
 
 	"Added groups to user"
 	{
 		"lv"		"Veiksmīgi pievienotas {1} grupas dotajam administratoram."
+	}
+
+	"Added group to user"
+	{
+		"lv"		"Veiksmīgi pievienota grupa dotajam administratoram."
 	}
 
 }

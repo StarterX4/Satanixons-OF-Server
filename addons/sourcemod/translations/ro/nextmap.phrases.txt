@@ -5,9 +5,9 @@
 		"ro"		"Harta următoare: {1}"
 	}
 
-	"Map History"
+	"Current Map"
 	{
-		"ro"		"Harti anterioare"
+		"ro"		"Harta curenta"
 	}
 
 	"Map"
@@ -15,9 +15,9 @@
 		"ro"		"[Harta]"
 	}
 
-	"Started"
+	"Map History"
 	{
-		"ro"		"[A inceput]"
+		"ro"		"Harti anterioare"
 	}
 
 	"Played Time"
@@ -30,9 +30,9 @@
 		"ro"		"[Motiv pentru oprire]"
 	}
 
-	"Current Map"
+	"Started"
 	{
-		"ro"		"Harta curenta"
+		"ro"		"[A inceput]"
 	}
 
 	"ago"

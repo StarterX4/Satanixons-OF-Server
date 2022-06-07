@@ -1,18 +1,8 @@
 "Phrases"
 {
-	"Timeleft"
+	"Current Map"
 	{
-		"ro"		"Timp rămas pentru hartă:"
-	}
-
-	"Thetime"
-	{
-		"ro"		"Timpul curent pe server este {1}"
-	}
-
-	"Friendly Fire On"
-	{
-		"ro"		"Friendly Fire este activat."
+		"ro"		"Harta curentă este {1}."
 	}
 
 	"Friendly Fire Off"
@@ -20,9 +10,19 @@
 		"ro"		"Friendly Fire este dezactivat."
 	}
 
-	"Current Map"
+	"Friendly Fire On"
 	{
-		"ro"		"Harta curentă este {1}."
+		"ro"		"Friendly Fire este activat."
+	}
+
+	"Thetime"
+	{
+		"ro"		"Timpul curent pe server este {1}"
+	}
+
+	"Timeleft"
+	{
+		"ro"		"Timp rămas pentru hartă:"
 	}
 
 	"LastRound"
@@ -30,14 +30,14 @@
 		"ro"		"Asta este ultima runda"
 	}
 
-	"NoTimelimit"
-	{
-		"ro"		"Nu este timp limita pe aceasta harta"
-	}
-
 	"Next Map"
 	{
 		"ro"		"Harta Urmatoare:"
+	}
+
+	"NoTimelimit"
+	{
+		"ro"		"Nu este timp limita pe aceasta harta"
 	}
 
 	"Pending Vote"
@@ -45,24 +45,9 @@
 		"ro"		"In asteptarea votului"
 	}
 
-	"WinLimitAppend"
+	"FragLimit"
 	{
-		"ro"		", sau schimba harta dupa ce o echipa va castiga o runda"
-	}
-
-	"WinLimit"
-	{
-		"ro"		"Harta va fi schimbata dupa ce o echipa va castiga o runda"
-	}
-
-	"MaxRoundsAppend"
-	{
-		"ro"		", sau schimba harta runda viitoare"
-	}
-
-	"MaxRounds"
-	{
-		"ro"		"Harta va fi schimbata runda viitoare"
+		"ro"		"Harta va fi schimbata dupa ce un jucator va avea un frag"
 	}
 
 	"FragLimitAppend"
@@ -70,19 +55,24 @@
 		"ro"		", sau schimba harta dupa ce un jucator va avea un frag"
 	}
 
-	"FragLimit"
+	"FragLimitAppendPlural"
 	{
-		"ro"		"Harta va fi schimbata dupa ce un jucator va avea un frag"
+		"ro"		", sau schimba harta dupa ce un jucator va avea {1} fraguri"
 	}
 
-	"WinLimitAppendPlural"
+	"FragLimitPlural"
 	{
-		"ro"		", sau schimba harta dupa ce o echipa va castiga {1} runde"
+		"ro"		"Harta va fi schimbata dupa ce un jucator va avea {1} fraguri"
 	}
 
-	"WinLimitPlural"
+	"MaxRounds"
 	{
-		"ro"		"Harta va fi schimbata dupa ce o echipa va castiga {1} runde"
+		"ro"		"Harta va fi schimbata runda viitoare"
+	}
+
+	"MaxRoundsAppend"
+	{
+		"ro"		", sau schimba harta runda viitoare"
 	}
 
 	"MaxRoundsAppendPlural"
@@ -95,14 +85,24 @@
 		"ro"		"Harta va fi schimbata dupa {1} runde"
 	}
 
-	"FragLimitAppendPlural"
+	"WinLimit"
 	{
-		"ro"		", sau schimba harta dupa ce un jucator va avea {1} fraguri"
+		"ro"		"Harta va fi schimbata dupa ce o echipa va castiga o runda"
 	}
 
-	"FragLimitPlural"
+	"WinLimitAppend"
 	{
-		"ro"		"Harta va fi schimbata dupa ce un jucator va avea {1} fraguri"
+		"ro"		", sau schimba harta dupa ce o echipa va castiga o runda"
+	}
+
+	"WinLimitAppendPlural"
+	{
+		"ro"		", sau schimba harta dupa ce o echipa va castiga {1} runde"
+	}
+
+	"WinLimitPlural"
+	{
+		"ro"		"Harta va fi schimbata dupa ce o echipa va castiga {1} runde"
 	}
 
 }

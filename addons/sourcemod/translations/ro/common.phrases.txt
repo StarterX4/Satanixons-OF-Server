@@ -1,38 +1,78 @@
 "Phrases"
 {
-	"Yes"
+	"Access"
 	{
-		"ro"		"Da"
+		"ro"		"Acces"
 	}
 
-	"No"
+	"Admin cache refreshed"
 	{
-		"ro"		"Nu"
+		"ro"		"Admin cache a fost actualizat."
 	}
 
-	"No matching client"
+	"Cancel vote"
 	{
-		"ro"		"Nici un client nu a fost găsit."
+		"ro"		"Anulează vot"
 	}
 
-	"No matching clients"
+	"Cancelled Vote"
 	{
-		"ro"		"Nici un client nu a fost găsit."
+		"ro"		"Vot anulat."
 	}
 
-	"More than one client matches"
+	"Cannot be performed on dead"
 	{
-		"ro"		"Mai mult de un client se potriveşte cu tiparul \"{1}\""
+		"ro"		"Această acţiune nu poate fi efectuată pe clientul mort \"{1}\""
 	}
 
-	"More than one client matched"
+	"Cannot target bot"
 	{
-		"ro"		"Mai mult de un client s-a potrivit cu tiparul indicat."
+		"ro"		"Această acţiune nu poate fi efectuată pe un bot."
 	}
 
-	"Player no longer available"
+	"Changing map"
 	{
-		"ro"		"Jucătorul selectat nu mai este disponibil."
+		"ro"		"Schimbare hartă în {1}..."
+	}
+
+	"Command is in-game only"
+	{
+		"ro"		"Această comandă poate fi folosită doar în timpul jocului."
+	}
+
+	"Config not found"
+	{
+		"ro"		"Fisierul config {1} nu a fost găsit."
+	}
+
+	"Could not connect to database"
+	{
+		"ro"		"Nu poate fi efectuată conectarea la baza de date."
+	}
+
+	"Cvar changed"
+	{
+		"ro"		"Cvar schimbat din \"{1}\" în \"{2}\"."
+	}
+
+	"Executed config"
+	{
+		"ro"		"Config \"{1}\" a fost executat."
+	}
+
+	"Failed to query database"
+	{
+		"ro"		"Eşuare în interogarea bazei de date."
+	}
+
+	"Invalid Amount"
+	{
+		"ro"		"A fost specificată o cantitate invalidă."
+	}
+
+	"Invalid SteamID specified"
+	{
+		"ro"		"Ai indicat un STEAM ID invalid (trebuie să înceapă cu 'STEAM_0:')."
 	}
 
 	"Kick player"
@@ -45,9 +85,9 @@
 		"ro"		"Kicked de un administrator"
 	}
 
-	"Changing map"
+	"Kicked player"
 	{
-		"ro"		"Schimbare hartă în {1}..."
+		"ro"		"Jucătorul '{1}' a primit kick"
 	}
 
 	"Map was not found"
@@ -55,9 +95,14 @@
 		"ro"		"Harta {1} nu a fost găsită."
 	}
 
-	"Unable to target"
+	"More than one client matched"
 	{
-		"ro"		"Nu poţi executa pe acest jucător."
+		"ro"		"Mai mult de un client s-a potrivit cu tiparul indicat."
+	}
+
+	"More than one client matches"
+	{
+		"ro"		"Mai mult de un client se potriveşte cu tiparul \"{1}\""
 	}
 
 	"Name"
@@ -65,94 +110,9 @@
 		"ro"		"Nume"
 	}
 
-	"Access"
+	"No"
 	{
-		"ro"		"Acces"
-	}
-
-	"See console for output"
-	{
-		"ro"		"Vezi consola pentru output."
-	}
-
-	"Cannot target bot"
-	{
-		"ro"		"Această acţiune nu poate fi efectuată pe un bot."
-	}
-
-	"Unable to find cvar"
-	{
-		"ro"		"Nu s-a găsit cvar: {1}"
-	}
-
-	"No access to cvar"
-	{
-		"ro"		"Nu ai acces la acest cvar."
-	}
-
-	"Value of cvar"
-	{
-		"ro"		"Valoarea cvar \"{1}\": \"{2}\""
-	}
-
-	"Cvar changed"
-	{
-		"ro"		"Cvar schimbat din \"{1}\" în \"{2}\"."
-	}
-
-	"Config not found"
-	{
-		"ro"		"Fisierul config {1} nu a fost găsit."
-	}
-
-	"Executed config"
-	{
-		"ro"		"Config \"{1}\" a fost executat."
-	}
-
-	"Admin cache refreshed"
-	{
-		"ro"		"Admin cache a fost actualizat."
-	}
-
-	"Invalid Amount"
-	{
-		"ro"		"A fost specificată o cantitate invalidă."
-	}
-
-	"Cannot be performed on dead"
-	{
-		"ro"		"Această acţiune nu poate fi efectuată pe clientul mort \"{1}\""
-	}
-
-	"Player has since died"
-	{
-		"ro"		"Acţiunea nu poate fi executată, jucătorul a murit intre timp."
-	}
-
-	"Vote in Progress"
-	{
-		"ro"		"Un vot este deja în desfăşurare."
-	}
-
-	"Vote Not In Progress"
-	{
-		"ro"		"Nici un vot nu este în desfăşurare în acest moment."
-	}
-
-	"Cancelled Vote"
-	{
-		"ro"		"Vot anulat."
-	}
-
-	"Cancel vote"
-	{
-		"ro"		"Anulează vot"
-	}
-
-	"Vote Select"
-	{
-		"ro"		"{1} a ales {2}."
+		"ro"		"Nu"
 	}
 
 	"No Votes Cast"
@@ -160,29 +120,34 @@
 		"ro"		"Nici un vot nu a fost exprimat."
 	}
 
-	"Vote Delay Minutes"
+	"No access to cvar"
 	{
-		"ro"		"Trebuie să aştepţi {1} minute înainte de a porni un alt vot."
+		"ro"		"Nu ai acces la acest cvar."
 	}
 
-	"Vote Delay Seconds"
+	"No matching client"
 	{
-		"ro"		"Trebuie să aştepţi {1} secunde înainte de a porni un alt vot."
+		"ro"		"Nici un client nu a fost găsit."
 	}
 
-	"Could not connect to database"
+	"No matching clients"
 	{
-		"ro"		"Nu poate fi efectuată conectarea la baza de date."
+		"ro"		"Nici un client nu a fost găsit."
 	}
 
-	"Failed to query database"
+	"Played Sound"
 	{
-		"ro"		"Eşuare în interogarea bazei de date."
+		"ro"		"Sunet executat pe jucătorul '{1}'"
 	}
 
-	"Invalid SteamID specified"
+	"Player has since died"
 	{
-		"ro"		"Ai indicat un STEAM ID invalid (trebuie să înceapă cu 'STEAM_0:')."
+		"ro"		"Acţiunea nu poate fi executată, jucătorul a murit intre timp."
+	}
+
+	"Player no longer available"
+	{
+		"ro"		"Jucătorul selectat nu mai este disponibil."
 	}
 
 	"Reload admins"
@@ -190,29 +155,9 @@
 		"ro"		"Reîncarcă adminii."
 	}
 
-	"Command is in-game only"
+	"See console for output"
 	{
-		"ro"		"Această comandă poate fi folosită doar în timpul jocului."
-	}
-
-	"Target must be dead"
-	{
-		"ro"		"Această comandă poate fi folosită numai pe jucătorii morţi."
-	}
-
-	"Target must be alive"
-	{
-		"ro"		"Această comandă poate fi folosită numai pe jucătorii în viaţă."
-	}
-
-	"Target is not in game"
-	{
-		"ro"		"Jucătorul indicat nu este incă complet în joc."
-	}
-
-	"Played Sound"
-	{
-		"ro"		"Sunet executat pe jucătorul '{1}'"
+		"ro"		"Vezi consola pentru output."
 	}
 
 	"Slapped player"
@@ -225,14 +170,64 @@
 		"ro"		"Jucătorul '{1}' a primit slay"
 	}
 
-	"Kicked player"
+	"Target is not in game"
 	{
-		"ro"		"Jucătorul '{1}' a primit kick"
+		"ro"		"Jucătorul indicat nu este incă complet în joc."
 	}
 
-	"Cannot participate in vote"
+	"Target must be alive"
 	{
-		"ro"		"Nu poti participa la aceasta votare"
+		"ro"		"Această comandă poate fi folosită numai pe jucătorii în viaţă."
+	}
+
+	"Target must be dead"
+	{
+		"ro"		"Această comandă poate fi folosită numai pe jucătorii morţi."
+	}
+
+	"Unable to find cvar"
+	{
+		"ro"		"Nu s-a găsit cvar: {1}"
+	}
+
+	"Unable to target"
+	{
+		"ro"		"Nu poţi executa pe acest jucător."
+	}
+
+	"Value of cvar"
+	{
+		"ro"		"Valoarea cvar \"{1}\": \"{2}\""
+	}
+
+	"Vote Delay Minutes"
+	{
+		"ro"		"Trebuie să aştepţi {1} minute înainte de a porni un alt vot."
+	}
+
+	"Vote Delay Seconds"
+	{
+		"ro"		"Trebuie să aştepţi {1} secunde înainte de a porni un alt vot."
+	}
+
+	"Vote Not In Progress"
+	{
+		"ro"		"Nici un vot nu este în desfăşurare în acest moment."
+	}
+
+	"Vote Select"
+	{
+		"ro"		"{1} a ales {2}."
+	}
+
+	"Vote in Progress"
+	{
+		"ro"		"Un vot este deja în desfăşurare."
+	}
+
+	"Yes"
+	{
+		"ro"		"Da"
 	}
 
 	"Cannot change vote"
@@ -240,9 +235,9 @@
 		"ro"		"Nu poti sa-ti schimba optiunea pentru votarea curenta"
 	}
 
-	"On"
+	"Cannot participate in vote"
 	{
-		"ro"		"On"
+		"ro"		"Nu poti participa la aceasta votare"
 	}
 
 	"Off"
@@ -250,9 +245,9 @@
 		"ro"		"Off"
 	}
 
-	"Say all"
+	"On"
 	{
-		"ro"		"Say tuturor"
+		"ro"		"On"
 	}
 
 	"Chat admins"
@@ -268,6 +263,11 @@
 	"Private say to"
 	{
 		"ro"		"Say privat lui"
+	}
+
+	"Say all"
+	{
+		"ro"		"Say tuturor"
 	}
 
 }

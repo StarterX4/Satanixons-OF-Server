@@ -1,8 +1,8 @@
 "Phrases"
 {
-	"No Access"
+	"_s"
 	{
-		"ro"		"Nu ai acces la această comandă"
+		"ro"		"{1}"
 	}
 
 	"Back"
@@ -10,14 +10,19 @@
 		"ro"		"Înapoi"
 	}
 
+	"Exit"
+	{
+		"ro"		"Ieşire"
+	}
+
 	"Next"
 	{
 		"ro"		"Următor"
 	}
 
-	"Exit"
+	"No Access"
 	{
-		"ro"		"Ieşire"
+		"ro"		"Nu ai acces la această comandă"
 	}
 
 	"Previous"
@@ -25,14 +30,9 @@
 		"ro"		"Anterior"
 	}
 
-	"all players"
+	"all alive players"
 	{
-		"ro"		"totţi jucătorii"
-	}
-
-	"all humans"
-	{
-		"ro"		"toţi oamenii"
+		"ro"		"toţi jucătorii în viaţă"
 	}
 
 	"all bots"
@@ -45,19 +45,24 @@
 		"ro"		"toţi jucătorii morţi"
 	}
 
-	"all alive players"
+	"all humans"
 	{
-		"ro"		"toţi jucătorii în viaţă"
+		"ro"		"toţi oamenii"
 	}
 
-	"_s"
+	"all players"
 	{
-		"ro"		"{1}"
+		"ro"		"totţi jucătorii"
 	}
 
-	"all spectators"
+	"Changed Vote"
 	{
-		"ro"		"toţi spectatorii"
+		"ro"		"{1} si-au schimbat votul in {2}"
+	}
+
+	"No Vote"
+	{
+		"ro"		"Nici un vot"
 	}
 
 	"Vote Count"
@@ -70,14 +75,9 @@
 		"ro"		"{1} a votat pentru {2}"
 	}
 
-	"Changed Vote"
+	"all spectators"
 	{
-		"ro"		"{1} si-au schimbat votul in {2}"
-	}
-
-	"No Vote"
-	{
-		"ro"		"Nici un vot"
+		"ro"		"toţi spectatorii"
 	}
 
 	"Name Reserved"

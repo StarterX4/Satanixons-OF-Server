@@ -1,23 +1,8 @@
 "Phrases"
 {
-	"Vote Nextmap"
-	{
-		"lt"		"Balsuoti dėl sekančio žemėlapio!"
-	}
-
-	"Nextmap Voting Started"
-	{
-		"lt"		"Balsavimas dėl sekančio žemėlapio prasidėjo."
-	}
-
 	"Nextmap Voting Finished"
 	{
 		"lt"		"Žemėlapio pasirinkimo balsavimas baigtas. Sekantis žemėlapis bus {1}."
-	}
-
-	"Current Map Extended"
-	{
-		"lt"		"Dabartinis žemėlapis buvo pratestas."
 	}
 
 	"Extend Map"
@@ -25,9 +10,24 @@
 		"lt"		"Pratesti dabartinį žemėlapį"
 	}
 
-	"Dont Change"
+	"Current Map Extended"
 	{
-		"lt"		"Nekeisti"
+		"lt"		"Dabartinis žemėlapis buvo pratestas."
+	}
+
+	"Nextmap Voting Started"
+	{
+		"lt"		"Balsavimas dėl sekančio žemėlapio prasidėjo."
+	}
+
+	"Vote Nextmap"
+	{
+		"lt"		"Balsuoti dėl sekančio žemėlapio!"
+	}
+
+	"Changed Next Map"
+	{
+		"lt"		"Pakeistas sekantis žemėlapis į \"{1}\"."
 	}
 
 	"Current Map Stays"
@@ -35,9 +35,9 @@
 		"lt"		"Dabartinis žemėlapis tęsiamas. Balsavimo rezultatai! (Surinkta {1}%% iš {2} balsų)"
 	}
 
-	"Changed Next Map"
+	"Dont Change"
 	{
-		"lt"		"Pakeistas sekantis žemėlapis į \"{1}\"."
+		"lt"		"Nekeisti"
 	}
 
 	"Starting Runoff"

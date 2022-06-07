@@ -1,23 +1,8 @@
 "Phrases"
 {
-	"Initiated Vote Gravity"
+	"Change Gravity To"
 	{
-		"zho"		"啟動了對於地心吸力的投票."
-	}
-
-	"Initiated Vote Burn"
-	{
-		"zho"		"啟動了燃燒 {1} 的投票."
-	}
-
-	"Initiated Vote Slay"
-	{
-		"zho"		"啟動了對於處死 {1} 的投票."
-	}
-
-	"Initiated Vote Alltalk"
-	{
-		"zho"		"啟動了關於全服對話的投票."
+		"zho"		"更改地心吸力為 {1}?"
 	}
 
 	"Initiated Vote FF"
@@ -25,24 +10,24 @@
 		"zho"		"啟動了對於隊友傷害的投票."
 	}
 
-	"Gravity Vote"
+	"Initiated Vote Burn"
 	{
-		"zho"		"地心吸力投票: {1}"
+		"zho"		"啟動了燃燒 {1} 的投票."
 	}
 
-	"Change Gravity To"
+	"Initiated Vote Alltalk"
 	{
-		"zho"		"更改地心吸力為 {1}?"
+		"zho"		"啟動了關於全服對話的投票."
 	}
 
-	"Voteburn player"
+	"Slay vote"
 	{
-		"zho"		"燃燒玩家 {1}?"
+		"zho"		"投票處死"
 	}
 
-	"Voteslay Player"
+	"Slayed player"
 	{
-		"zho"		"處死 {1}?"
+		"zho"		"玩家 '{1}' 已被處死"
 	}
 
 	"Votealltalk Off"
@@ -55,19 +40,19 @@
 		"zho"		"開啟全服對話功能? {1}"
 	}
 
-	"Voteff Off"
+	"Voteburn player"
 	{
-		"zho"		"關閉隊友傷害功能? {1}"
+		"zho"		"燃燒玩家 {1}?"
 	}
 
-	"Voteff On"
+	"Initiated Vote Gravity"
 	{
-		"zho"		"開啟隊友傷害功能? {1}"
+		"zho"		"啟動了對於地心吸力的投票."
 	}
 
-	"Gravity vote"
+	"Initiated Vote Slay"
 	{
-		"zho"		"地心吸力投票"
+		"zho"		"啟動了對於處死 {1} 的投票."
 	}
 
 	"Vote FF"
@@ -75,24 +60,39 @@
 		"zho"		"隊友傷害投票"
 	}
 
-	"Burn vote"
-	{
-		"zho"		"燃燒投票"
-	}
-
 	"Alltalk vote"
 	{
 		"zho"		"全服對話投票"
 	}
 
-	"Slay vote"
+	"Burn vote"
 	{
-		"zho"		"投票處死"
+		"zho"		"燃燒投票"
 	}
 
-	"Slayed player"
+	"Voteslay Player"
 	{
-		"zho"		"玩家 '{1}' 已被處死"
+		"zho"		"處死 {1}?"
+	}
+
+	"Voteff On"
+	{
+		"zho"		"開啟隊友傷害功能? {1}"
+	}
+
+	"Voteff Off"
+	{
+		"zho"		"關閉隊友傷害功能? {1}"
+	}
+
+	"Gravity Vote"
+	{
+		"zho"		"地心吸力投票: {1}"
+	}
+
+	"Gravity vote"
+	{
+		"zho"		"地心吸力投票"
 	}
 
 }

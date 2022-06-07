@@ -45,24 +45,24 @@
 		"hu"		"Nem jelölheted a jelenlegi pályát!"
 	}
 
-	"Map in Exclude List"
-	{
-		"hu"		"Nem jelölheted ezt a pályát"
-	}
-
 	"Current Map"
 	{
 		"hu"		"Jelenlegi pálya"
 	}
 
-	"Recently Played"
+	"Map in Exclude List"
 	{
-		"hu"		"Sürűn játszott"
+		"hu"		"Nem jelölheted ezt a pályát"
 	}
 
 	"Nominated"
 	{
 		"hu"		"Jelölve"
+	}
+
+	"Recently Played"
+	{
+		"hu"		"Sürűn játszott"
 	}
 
 }

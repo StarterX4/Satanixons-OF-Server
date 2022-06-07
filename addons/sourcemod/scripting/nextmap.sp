@@ -65,6 +65,7 @@ public APLRes AskPluginLoad2(Handle myself, bool late, char[] error, int err_max
 			|| StrEqual(game, "left4dead2", false)
 			|| StrEqual(game, "garrysmod", false)
 			|| StrEqual(game, "swarm", false)
+			|| StrEqual(game, "bms", false)
 			|| StrEqual(game, "reactivedrop", false)
 			|| engine == Engine_Insurgency
 			|| engine == Engine_DOI)
@@ -163,16 +164,12 @@ void FindAndSetNextMap()
 		}
 		
 		if (g_MapPos == -1)
-		{
 			g_MapPos = 0;
-		}
 	}
 	
 	g_MapPos++;
 	if (g_MapPos >= mapCount)
-	{
-		g_MapPos = 0;
-	}
+		g_MapPos = 0;	
  
  	g_MapList.GetString(g_MapPos, mapName, sizeof(mapName));
 	SetNextMap(mapName);
@@ -207,11 +204,6 @@ public Action Command_MapHistory(int client, int args)
 		
 		lastMapStartTime = startTime;
 	}
-	
-	if (client && GetCmdReplySource() == SM_REPLY_TO_CHAT)
-	{
-		PrintToChat(client, "[SM] %t", "See console for output");
-	}
 
 	return Plugin_Handled;
 }
@@ -227,16 +219,16 @@ int FormatTimeDuration(char[] buffer, int maxlen, int time)
 	{
 		return Format(buffer, maxlen, "%id %ih %im", days, hours, (seconds >= 30) ? minutes+1 : minutes);
 	}
-	
-	if (hours > 0)
+	else if (hours > 0)
 	{
 		return Format(buffer, maxlen, "%ih %im", hours, (seconds >= 30) ? minutes+1 : minutes);		
 	}
-	
-	if (minutes > 0)
+	else if (minutes > 0)
 	{
 		return Format(buffer, maxlen, "%im", (seconds >= 30) ? minutes+1 : minutes);		
 	}
-	
-	return Format(buffer, maxlen, "%is", seconds);	
+	else
+	{
+		return Format(buffer, maxlen, "%is", seconds);		
+	}
 }

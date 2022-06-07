@@ -5,9 +5,9 @@
 		"fi"		"Seuraava kartta: {1}"
 	}
 
-	"Map History"
+	"Current Map"
 	{
-		"fi"		"Karttahistoria"
+		"fi"		"Tämänhetkinen kartta"
 	}
 
 	"Map"
@@ -15,14 +15,9 @@
 		"fi"		"[Kartta]"
 	}
 
-	"Started"
+	"Map History"
 	{
-		"fi"		"[Aloitettu]"
-	}
-
-	"Played Time"
-	{
-		"fi"		"[Pelattu aika]"
+		"fi"		"Karttahistoria"
 	}
 
 	"Reason"
@@ -30,14 +25,19 @@
 		"fi"		"[Syy lopettamiselle]"
 	}
 
-	"Current Map"
-	{
-		"fi"		"Tämänhetkinen kartta"
-	}
-
 	"ago"
 	{
 		"fi"		"sitten"
+	}
+
+	"Played Time"
+	{
+		"fi"		"[Pelattu aika]"
+	}
+
+	"Started"
+	{
+		"fi"		"[Aloitettu]"
 	}
 
 }

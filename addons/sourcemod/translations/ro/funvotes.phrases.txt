@@ -1,33 +1,13 @@
 "Phrases"
 {
-	"Initiated Vote Gravity"
+	"Alltalk vote"
 	{
-		"ro"		"Iniţializat un vot pentru gravity."
+		"ro"		"Vot pentru alltalk"
 	}
 
-	"Initiated Vote Burn"
+	"Burn vote"
 	{
-		"ro"		"Iniţializat un vot de burn impotriva lui {1}."
-	}
-
-	"Initiated Vote Slay"
-	{
-		"ro"		"Iniţializat un vot de slay împotriva lui {1}."
-	}
-
-	"Initiated Vote Alltalk"
-	{
-		"ro"		"Iniţializat un vot pentru alltalk."
-	}
-
-	"Initiated Vote FF"
-	{
-		"ro"		"Iniţializat un vot pentru friendly fire."
-	}
-
-	"Gravity Vote"
-	{
-		"ro"		"Vot gravitate: {1}"
+		"ro"		"Vot pentru burn"
 	}
 
 	"Change Gravity To"
@@ -35,14 +15,49 @@
 		"ro"		"Modific gravitatea în {1}?"
 	}
 
-	"Voteburn player"
+	"Gravity Vote"
 	{
-		"ro"		"Burn jucător {1}?"
+		"ro"		"Vot gravitate: {1}"
 	}
 
-	"Voteslay Player"
+	"Gravity vote"
 	{
-		"ro"		"Slay{1}?"
+		"ro"		"Vot pentru gravitate"
+	}
+
+	"Initiated Vote Alltalk"
+	{
+		"ro"		"Iniţializat un vot pentru alltalk."
+	}
+
+	"Initiated Vote Burn"
+	{
+		"ro"		"Iniţializat un vot de burn impotriva lui {1}."
+	}
+
+	"Initiated Vote FF"
+	{
+		"ro"		"Iniţializat un vot pentru friendly fire."
+	}
+
+	"Initiated Vote Gravity"
+	{
+		"ro"		"Iniţializat un vot pentru gravity."
+	}
+
+	"Initiated Vote Slay"
+	{
+		"ro"		"Iniţializat un vot de slay împotriva lui {1}."
+	}
+
+	"Slay vote"
+	{
+		"ro"		"Vot pentru slay"
+	}
+
+	"Vote FF"
+	{
+		"ro"		"Vot pentru FF"
 	}
 
 	"Votealltalk Off"
@@ -55,6 +70,11 @@
 		"ro"		"Pornim alltalk? {1}"
 	}
 
+	"Voteburn player"
+	{
+		"ro"		"Burn jucător {1}?"
+	}
+
 	"Voteff Off"
 	{
 		"ro"		"Oprim friendly fire? {1}"
@@ -65,29 +85,9 @@
 		"ro"		"Pornim friendly fire? {1}"
 	}
 
-	"Gravity vote"
+	"Voteslay Player"
 	{
-		"ro"		"Vot pentru gravitate"
-	}
-
-	"Vote FF"
-	{
-		"ro"		"Vot pentru FF"
-	}
-
-	"Burn vote"
-	{
-		"ro"		"Vot pentru burn"
-	}
-
-	"Alltalk vote"
-	{
-		"ro"		"Vot pentru alltalk"
-	}
-
-	"Slay vote"
-	{
-		"ro"		"Vot pentru slay"
+		"ro"		"Slay{1}?"
 	}
 
 	"Slayed player"

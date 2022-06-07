@@ -328,7 +328,7 @@ enum TFResourceType
 	TFResource_PlayerClass
 };
 
-static const char TFResourceNames[][] =
+static const char TFResourceNames[TFResourceType][] =
 {
 	"m_iPing",
 	"m_iScore",
@@ -431,7 +431,7 @@ stock int TF2_GetPlayerResourceData(int client, TFResourceType type)
 		return -1;
 	}
 
-	int entity = GetPlayerResourceEntity();
+	int entity = TF2_GetResourceEntity();
 
 	if (entity == -1)
 	{
@@ -468,7 +468,7 @@ stock bool TF2_SetPlayerResourceData(int client, TFResourceType type, any value)
 		return false;
 	}
 
-	int entity = GetPlayerResourceEntity();
+	int entity = TF2_GetResourceEntity();
 
 	if (entity == -1)
 	{

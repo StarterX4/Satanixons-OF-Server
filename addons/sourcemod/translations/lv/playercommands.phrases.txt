@@ -1,23 +1,23 @@
 "Phrases"
 {
-	"Slap player"
-	{
-		"lv"		"Iepērt spēlētāju"
-	}
-
 	"Slap damage"
 	{
 		"lv"		"Pēriena bojājumi"
 	}
 
-	"Slay player"
+	"Slap player"
 	{
-		"lv"		"Nonāvēt spēlētāju"
+		"lv"		"Iepērt spēlētāju"
 	}
 
 	"Slapped target"
 	{
 		"lv"		"Iepēra {1}."
+	}
+
+	"Slay player"
+	{
+		"lv"		"Nonāvēt spēlētāju"
 	}
 
 	"Slayed target"
@@ -30,14 +30,14 @@
 		"lv"		"Administrators ir nomainījis tavu niku"
 	}
 
-	"Renamed target"
-	{
-		"lv"		"Pārsauca {1}."
-	}
-
 	"Rename player"
 	{
 		"lv"		"Pārsaukt spēlētāju"
+	}
+
+	"Renamed target"
+	{
+		"lv"		"Pārsauca {1}."
 	}
 
 	"Dead Player Rename"

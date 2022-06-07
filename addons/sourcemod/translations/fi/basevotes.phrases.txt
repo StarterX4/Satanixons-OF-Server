@@ -1,23 +1,8 @@
 "Phrases"
 {
-	"Initiate Vote"
+	"Confirm Vote"
 	{
-		"fi"		"Aloitettiin äänestys: {1}"
-	}
-
-	"Initiated Vote Map"
-	{
-		"fi"		"Aloitettiin karttaäänestys."
-	}
-
-	"Initiated Vote Kick"
-	{
-		"fi"		"Aloitettiin erotusäänestys pelaajaa {1} kohtaan."
-	}
-
-	"Initiated Vote Ban"
-	{
-		"fi"		"Aloitettiin porttikieltoäänestys pelaajaa {1} kohtaan."
+		"fi"		"Vahvista äänestys"
 	}
 
 	"Map Vote"
@@ -25,19 +10,9 @@
 		"fi"		"Karttaäänestys: {1}"
 	}
 
-	"Change Map To"
+	"Map vote"
 	{
-		"fi"		"Vaihdetaanko kartaksi {1}?"
-	}
-
-	"Votekick Player"
-	{
-		"fi"		"Erota {1}?"
-	}
-
-	"Voteban Player"
-	{
-		"fi"		"Anna porttikielto pelaajalle {1}?"
+		"fi"		"Karttaäänestys"
 	}
 
 	"Vote Successful"
@@ -45,9 +20,14 @@
 		"fi"		"Äänestys onnistui. (Vastaanotettiin {1}%% {2} äänestä)"
 	}
 
-	"Vote Failed"
+	"Change Map To"
 	{
-		"fi"		"Äänestys epäonnistui. {1}%% äänistä vaadittiin. (Saatiin {2}%% {3} äänestä)"
+		"fi"		"Vaihdetaanko kartaksi {1}?"
+	}
+
+	"Initiated Vote Map"
+	{
+		"fi"		"Aloitettiin karttaäänestys."
 	}
 
 	"Vote End"
@@ -55,9 +35,24 @@
 		"fi"		"Vastaus kysymykseen {1} on: {2}"
 	}
 
-	"Kick vote"
+	"Initiate Vote"
 	{
-		"fi"		"Erotusäänestys"
+		"fi"		"Aloitettiin äänestys: {1}"
+	}
+
+	"Map Vote In Use"
+	{
+		"fi"		"Toinen ylläpitäjä käyttää karttaäänestysvalikkoa tällä hetkellä."
+	}
+
+	"Initiated Vote Ban"
+	{
+		"fi"		"Aloitettiin porttikieltoäänestys pelaajaa {1} kohtaan."
+	}
+
+	"Initiated Vote Kick"
+	{
+		"fi"		"Aloitettiin erotusäänestys pelaajaa {1} kohtaan."
 	}
 
 	"Ban vote"
@@ -65,19 +60,24 @@
 		"fi"		"Porttikieltoäänestys"
 	}
 
-	"Map vote"
+	"Kick vote"
 	{
-		"fi"		"Karttaäänestys"
+		"fi"		"Erotusäänestys"
 	}
 
-	"Confirm Vote"
+	"Vote Failed"
 	{
-		"fi"		"Vahvista äänestys"
+		"fi"		"Äänestys epäonnistui. {1}%% äänistä vaadittiin. (Saatiin {2}%% {3} äänestä)"
 	}
 
-	"Map Vote In Use"
+	"Voteban Player"
 	{
-		"fi"		"Toinen ylläpitäjä käyttää karttaäänestysvalikkoa tällä hetkellä."
+		"fi"		"Anna porttikielto pelaajalle {1}?"
+	}
+
+	"Votekick Player"
+	{
+		"fi"		"Erota {1}?"
 	}
 
 	"Please select a map"

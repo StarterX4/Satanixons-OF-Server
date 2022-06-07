@@ -94,7 +94,7 @@ void DisplayBanTargetMenu(int client)
 	char title[100];
 	Format(title, sizeof(title), "%T:", "Ban player", client);
 	menu.SetTitle(title);
-	menu.ExitBackButton = CheckCommandAccess(client, "sm_admin", ADMFLAG_GENERIC, false);
+	menu.ExitBackButton = true;
 
 	AddTargetsToMenu2(menu, client, COMMAND_FILTER_NO_BOTS|COMMAND_FILTER_CONNECTED);
 
@@ -205,8 +205,6 @@ public int MenuHandler_BanReasonList(Menu menu, MenuAction action, int param1, i
 			PrepareBan(param1, playerinfo[param1].banTarget, playerinfo[param1].banTime, info);
 		}
 	}
-
-	return 0;
 }
 
 public int MenuHandler_BanPlayerList(Menu menu, MenuAction action, int param1, int param2)
@@ -245,8 +243,6 @@ public int MenuHandler_BanPlayerList(Menu menu, MenuAction action, int param1, i
 			DisplayBanTimeMenu(param1);
 		}
 	}
-
-	return 0;
 }
 
 public int MenuHandler_BanTimeList(Menu menu, MenuAction action, int param1, int param2)
@@ -271,8 +267,6 @@ public int MenuHandler_BanTimeList(Menu menu, MenuAction action, int param1, int
 
 		DisplayBanReasonMenu(param1);
 	}
-
-	return 0;
 }
 
 public Action Command_Ban(int client, int args)

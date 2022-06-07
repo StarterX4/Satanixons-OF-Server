@@ -1,28 +1,8 @@
 "Phrases"
 {
-	"Initiate Vote"
+	"Ban vote"
 	{
-		"lt"		"Pradėjo balsavimą: {1}"
-	}
-
-	"Initiated Vote Map"
-	{
-		"lt"		"Pradėjo balsavimą dėl naujo žemėlapio."
-	}
-
-	"Initiated Vote Kick"
-	{
-		"lt"		"Pradėjo pašalinimo balsavimą prieš {1}."
-	}
-
-	"Initiated Vote Ban"
-	{
-		"lt"		"Pradėjo draudimo balsavimą prieš {1}."
-	}
-
-	"Map Vote"
-	{
-		"lt"		"Balsavimas už žemėlapį: {1}"
+		"lt"		"Draudimo balsavimas"
 	}
 
 	"Change Map To"
@@ -30,29 +10,29 @@
 		"lt"		"Pakeisti žemėlapį į {1}?"
 	}
 
-	"Votekick Player"
+	"Confirm Vote"
 	{
-		"lt"		"Pašalinti {1}?"
+		"lt"		"Patvirtinti balsavimą"
 	}
 
-	"Voteban Player"
+	"Initiate Vote"
 	{
-		"lt"		"Uždrausti {1}?"
+		"lt"		"Pradėjo balsavimą: {1}"
 	}
 
-	"Vote Successful"
+	"Initiated Vote Ban"
 	{
-		"lt"		"Balsavimas pavyko. (Surinkta {1}%% iš {2} galimų)"
+		"lt"		"Pradėjo draudimo balsavimą prieš {1}."
 	}
 
-	"Vote Failed"
+	"Initiated Vote Kick"
 	{
-		"lt"		"Balsavimas nepavyko. {1}%% balsų reikia. (Surinkta {2}%% iš {3} galimų)"
+		"lt"		"Pradėjo pašalinimo balsavimą prieš {1}."
 	}
 
-	"Vote End"
+	"Initiated Vote Map"
 	{
-		"lt"		"Atsakymas į {1} yra: {2}."
+		"lt"		"Pradėjo balsavimą dėl naujo žemėlapio."
 	}
 
 	"Kick vote"
@@ -60,9 +40,9 @@
 		"lt"		"Pašalinimo balsavimas"
 	}
 
-	"Ban vote"
+	"Map Vote"
 	{
-		"lt"		"Draudimo balsavimas"
+		"lt"		"Balsavimas už žemėlapį: {1}"
 	}
 
 	"Map vote"
@@ -70,9 +50,29 @@
 		"lt"		"Balsavimas už žemėlapį"
 	}
 
-	"Confirm Vote"
+	"Vote End"
 	{
-		"lt"		"Patvirtinti balsavimą"
+		"lt"		"Atsakymas į {1} yra: {2}."
+	}
+
+	"Vote Failed"
+	{
+		"lt"		"Balsavimas nepavyko. {1}%% balsų reikia. (Surinkta {2}%% iš {3} galimų)"
+	}
+
+	"Vote Successful"
+	{
+		"lt"		"Balsavimas pavyko. (Surinkta {1}%% iš {2} galimų)"
+	}
+
+	"Voteban Player"
+	{
+		"lt"		"Uždrausti {1}?"
+	}
+
+	"Votekick Player"
+	{
+		"lt"		"Pašalinti {1}?"
 	}
 
 	"Map Vote In Use"

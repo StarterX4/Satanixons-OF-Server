@@ -1,28 +1,8 @@
 "Phrases"
 {
-	"Initiate Vote"
+	"Ban vote"
 	{
-		"ro"		"Iniţializare vot: {1}"
-	}
-
-	"Initiated Vote Map"
-	{
-		"ro"		"Iniţializare vot pentru hartă."
-	}
-
-	"Initiated Vote Kick"
-	{
-		"ro"		"Iniţializare vot de kick împotriva {1}."
-	}
-
-	"Initiated Vote Ban"
-	{
-		"ro"		"Iniţializare vot de ban împotriva {1}."
-	}
-
-	"Map Vote"
-	{
-		"ro"		"Vot hartă: {1}"
+		"ro"		"Vot pentru ban"
 	}
 
 	"Change Map To"
@@ -30,29 +10,29 @@
 		"ro"		"Schimbi harta în {1}?"
 	}
 
-	"Votekick Player"
+	"Confirm Vote"
 	{
-		"ro"		"Kick {1}?"
+		"ro"		"Confirmă vot"
 	}
 
-	"Voteban Player"
+	"Initiate Vote"
 	{
-		"ro"		"Ban {1}?"
+		"ro"		"Iniţializare vot: {1}"
 	}
 
-	"Vote Successful"
+	"Initiated Vote Ban"
 	{
-		"ro"		"Vot reuşit. (s-au primit {1}%% din {2} voturi)"
+		"ro"		"Iniţializare vot de ban împotriva {1}."
 	}
 
-	"Vote Failed"
+	"Initiated Vote Kick"
 	{
-		"ro"		"Vot eşuat. {1}%% voturi necesare. (s-au primit {2}%% din {3} voturi)"
+		"ro"		"Iniţializare vot de kick împotriva {1}."
 	}
 
-	"Vote End"
+	"Initiated Vote Map"
 	{
-		"ro"		"Răspunsul la {1} este: {2}."
+		"ro"		"Iniţializare vot pentru hartă."
 	}
 
 	"Kick vote"
@@ -60,9 +40,9 @@
 		"ro"		"Vot kick"
 	}
 
-	"Ban vote"
+	"Map Vote"
 	{
-		"ro"		"Vot pentru ban"
+		"ro"		"Vot hartă: {1}"
 	}
 
 	"Map vote"
@@ -70,9 +50,29 @@
 		"ro"		"Vot hartă"
 	}
 
-	"Confirm Vote"
+	"Vote End"
 	{
-		"ro"		"Confirmă vot"
+		"ro"		"Răspunsul la {1} este: {2}."
+	}
+
+	"Vote Failed"
+	{
+		"ro"		"Vot eşuat. {1}%% voturi necesare. (s-au primit {2}%% din {3} voturi)"
+	}
+
+	"Vote Successful"
+	{
+		"ro"		"Vot reuşit. (s-au primit {1}%% din {2} voturi)"
+	}
+
+	"Voteban Player"
+	{
+		"ro"		"Ban {1}?"
+	}
+
+	"Votekick Player"
+	{
+		"ro"		"Kick {1}?"
 	}
 
 	"Map Vote In Use"

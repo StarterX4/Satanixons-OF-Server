@@ -5,6 +5,16 @@
 		"lv"		"Nākamā karte: {1}"
 	}
 
+	"Reason"
+	{
+		"lv"		"[Labojumu iemesls]"
+	}
+
+	"Played Time"
+	{
+		"lv"		"[Nospēlētais laiks]"
+	}
+
 	"Map History"
 	{
 		"lv"		"Kartes vēsture"
@@ -20,24 +30,14 @@
 		"lv"		"[Uzsākta]"
 	}
 
-	"Played Time"
+	"ago"
 	{
-		"lv"		"[Nospēlētais laiks]"
-	}
-
-	"Reason"
-	{
-		"lv"		"[Labojumu iemesls]"
+		"lv"		"pirms"
 	}
 
 	"Current Map"
 	{
 		"lv"		"Patreizējā karte"
-	}
-
-	"ago"
-	{
-		"lv"		"pirms"
 	}
 
 }

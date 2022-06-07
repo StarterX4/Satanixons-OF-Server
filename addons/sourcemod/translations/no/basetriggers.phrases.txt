@@ -1,73 +1,8 @@
 "Phrases"
 {
-	"Timeleft"
-	{
-		"no"		"Tid igjen av kart:"
-	}
-
-	"Thetime"
-	{
-		"no"		"Den nåværende server tiden er {1}"
-	}
-
-	"Friendly Fire On"
-	{
-		"no"		"Vennlig drap er aktivert."
-	}
-
-	"Friendly Fire Off"
-	{
-		"no"		"Vennlig drap er deaktivert."
-	}
-
 	"Current Map"
 	{
 		"no"		"Dette kartet er {1}."
-	}
-
-	"LastRound"
-	{
-		"no"		"Dette er siste runde!!"
-	}
-
-	"NoTimelimit"
-	{
-		"no"		"Ingen tidsfrist for kart"
-	}
-
-	"Next Map"
-	{
-		"no"		"Neste kart: {1}"
-	}
-
-	"Pending Vote"
-	{
-		"no"		"Avventer stemme"
-	}
-
-	"WinLimitAppend"
-	{
-		"no"		", eller endre kart etter et lag vinner en runde"
-	}
-
-	"WinLimit"
-	{
-		"no"		"Kart vil endres etter et lag vinner en runde"
-	}
-
-	"MaxRoundsAppend"
-	{
-		"no"		", eller bytt kart etter en runde til"
-	}
-
-	"MaxRounds"
-	{
-		"no"		"Kart vil endres etter en runde til"
-	}
-
-	"FragLimitAppend"
-	{
-		"no"		", eller bytt kart etter spiller får ett drap"
 	}
 
 	"FragLimit"
@@ -75,14 +10,44 @@
 		"no"		"Kart vil bytte etter en spiller får ett drap"
 	}
 
-	"WinLimitAppendPlural"
+	"FragLimitAppend"
 	{
-		"no"		", eller endre kart etter et lag vinner {1} runder"
+		"no"		", eller bytt kart etter spiller får ett drap"
 	}
 
-	"WinLimitPlural"
+	"FragLimitAppendPlural"
 	{
-		"no"		"Kart vil bytte etter et lag vinner {1} runder"
+		"no"		", eller bytt map etter spiller får {1} drap."
+	}
+
+	"FragLimitPlural"
+	{
+		"no"		"Kart vil byttes etter en spiller har fått {1} drap"
+	}
+
+	"Friendly Fire Off"
+	{
+		"no"		"Vennlig drap er deaktivert."
+	}
+
+	"Friendly Fire On"
+	{
+		"no"		"Vennlig drap er aktivert."
+	}
+
+	"LastRound"
+	{
+		"no"		"Dette er siste runde!!"
+	}
+
+	"MaxRounds"
+	{
+		"no"		"Kart vil endres etter en runde til"
+	}
+
+	"MaxRoundsAppend"
+	{
+		"no"		", eller bytt kart etter en runde til"
 	}
 
 	"MaxRoundsAppendPlural"
@@ -95,14 +60,49 @@
 		"no"		"Kart vil endres etter {1} runde til"
 	}
 
-	"FragLimitAppendPlural"
+	"Next Map"
 	{
-		"no"		", eller bytt map etter spiller får {1} drap."
+		"no"		"Neste kart: {1}"
 	}
 
-	"FragLimitPlural"
+	"NoTimelimit"
 	{
-		"no"		"Kart vil byttes etter en spiller har fått {1} drap"
+		"no"		"Ingen tidsfrist for kart"
+	}
+
+	"Pending Vote"
+	{
+		"no"		"Avventer stemme"
+	}
+
+	"Thetime"
+	{
+		"no"		"Den nåværende server tiden er {1}"
+	}
+
+	"Timeleft"
+	{
+		"no"		"Tid igjen av kart:"
+	}
+
+	"WinLimit"
+	{
+		"no"		"Kart vil endres etter et lag vinner en runde"
+	}
+
+	"WinLimitAppend"
+	{
+		"no"		", eller endre kart etter et lag vinner en runde"
+	}
+
+	"WinLimitAppendPlural"
+	{
+		"no"		", eller endre kart etter et lag vinner {1} runder"
+	}
+
+	"WinLimitPlural"
+	{
+		"no"		"Kart vil bytte etter et lag vinner {1} runder"
 	}
 
 }

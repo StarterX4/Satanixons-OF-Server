@@ -1,18 +1,13 @@
 "Phrases"
 {
-	"No Access"
-	{
-		"pt_p"		"Não tens acesso a este comando."
-	}
-
 	"Back"
 	{
 		"pt_p"		"Voltar"
 	}
 
-	"Next"
+	"Changed Vote"
 	{
-		"pt_p"		"Seguinte"
+		"pt_p"		"{1} trocou o seu voto para {2}"
 	}
 
 	"Exit"
@@ -20,44 +15,29 @@
 		"pt_p"		"Sair"
 	}
 
+	"Name Reserved"
+	{
+		"pt_p"		"O teu nome está reservado pelo SourceMod, configura a tua palavra-passe para usá-lo."
+	}
+
+	"Next"
+	{
+		"pt_p"		"Seguinte"
+	}
+
+	"No Access"
+	{
+		"pt_p"		"Não tens acesso a este comando."
+	}
+
+	"No Vote"
+	{
+		"pt_p"		"Sem votos"
+	}
+
 	"Previous"
 	{
 		"pt_p"		"Anterior"
-	}
-
-	"all players"
-	{
-		"pt_p"		"todos os jogadores"
-	}
-
-	"all humans"
-	{
-		"pt_p"		"todos os humanos"
-	}
-
-	"all bots"
-	{
-		"pt_p"		"todos os bots"
-	}
-
-	"all dead players"
-	{
-		"pt_p"		"todos os jogadores mortos"
-	}
-
-	"all alive players"
-	{
-		"pt_p"		"todos os jogadores vivos"
-	}
-
-	"_s"
-	{
-		"pt_p"		"{1}"
-	}
-
-	"all spectators"
-	{
-		"pt_p"		"todos os espectadores"
 	}
 
 	"Vote Count"
@@ -70,19 +50,39 @@
 		"pt_p"		"{1} votou em {2}"
 	}
 
-	"Changed Vote"
+	"_s"
 	{
-		"pt_p"		"{1} trocou o seu voto para {2}"
+		"pt_p"		"{1}"
 	}
 
-	"No Vote"
+	"all alive players"
 	{
-		"pt_p"		"Sem votos"
+		"pt_p"		"todos os jogadores vivos"
 	}
 
-	"Name Reserved"
+	"all bots"
 	{
-		"pt_p"		"O teu nome está reservado pelo SourceMod, configura a tua palavra-passe para usá-lo."
+		"pt_p"		"todos os bots"
+	}
+
+	"all dead players"
+	{
+		"pt_p"		"todos os jogadores mortos"
+	}
+
+	"all humans"
+	{
+		"pt_p"		"todos os humanos"
+	}
+
+	"all players"
+	{
+		"pt_p"		"todos os jogadores"
+	}
+
+	"all spectators"
+	{
+		"pt_p"		"todos os espectadores"
 	}
 
 }

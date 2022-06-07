@@ -1,13 +1,18 @@
 "Phrases"
 {
+	"Can't Nominate Current Map"
+	{
+		"ar"		"الخريطة التي أخترت هي الحالية ولا يمكن تسميهتها."
+	}
+
 	"Already Nominated"
 	{
 		"ar"		"لقد سمية خريطة مسبقا."
 	}
 
-	"Max Nominations"
+	"Current Map"
 	{
-		"ar"		"العدد المسموح للتسمية تم وصوله."
+		"ar"		"الخريطة الحالية."
 	}
 
 	"Map Already In Vote"
@@ -15,14 +20,14 @@
 		"ar"		"الخريطة \"{1}\" موجودة مسبقا على لائحت التصويت."
 	}
 
-	"Map Inserted"
-	{
-		"ar"		"تم إضافة الخريطة \"{1}\" إلى لائحت التصويث."
-	}
-
 	"Map Already Nominated"
 	{
 		"ar"		"الخريطة التي إخترت تم تسميها مسبقا."
+	}
+
+	"Map Inserted"
+	{
+		"ar"		"تم إضافة الخريطة \"{1}\" إلى لائحت التصويث."
 	}
 
 	"Map Nominated"
@@ -35,34 +40,29 @@
 		"ar"		"{1} غير تسميه ل\"{1}\"."
 	}
 
-	"Nominate Title"
-	{
-		"ar"		"سم خريطة:"
-	}
-
-	"Can't Nominate Current Map"
-	{
-		"ar"		"الخريطة التي أخترت هي الحالية ولا يمكن تسميهتها."
-	}
-
 	"Map in Exclude List"
 	{
 		"ar"		"الخريطة التي إخترت تم لعبها من قبل ولا يمكن تسميتها"
 	}
 
-	"Current Map"
+	"Max Nominations"
 	{
-		"ar"		"الخريطة الحالية."
+		"ar"		"العدد المسموح للتسمية تم وصوله."
 	}
 
-	"Recently Played"
+	"Nominate Title"
 	{
-		"ar"		"تم اللعب فيها قبل قليل."
+		"ar"		"سم خريطة:"
 	}
 
 	"Nominated"
 	{
 		"ar"		"أختيرت"
+	}
+
+	"Recently Played"
+	{
+		"ar"		"تم اللعب فيها قبل قليل."
 	}
 
 }

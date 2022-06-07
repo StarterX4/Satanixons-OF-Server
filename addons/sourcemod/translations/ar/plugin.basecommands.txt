@@ -1,43 +1,23 @@
 "Phrases"
 {
-	"Unable to find cvar"
+	"Admin access"
 	{
-		"ar"		"لم يتم العثور على الإعداد: {1}"
+		"ar"		"ترخيص للآدمن"
 	}
 
-	"No access to cvar"
+	"Admin cache refreshed"
 	{
-		"ar"		"ليس لك الحق لإسعمال هذا الإعداد."
+		"ar"		"تم إنعاش ترخيصات الآدمن."
 	}
 
-	"Value of cvar"
+	"Admin logged in anon"
 	{
-		"ar"		"قيمة الإعداد \"{1}\": \"{2}\""
+		"ar"		"\"{1}\" لديه ترخيص: {2}"
 	}
 
-	"Cvar changed"
+	"Ban added"
 	{
-		"ar"		"غير ال'cvar' من \"{1}\" إلى \"{2}\"."
-	}
-
-	"Config not found"
-	{
-		"ar"		"لم يتم العثور على ملف الأعدادات {1}."
-	}
-
-	"Executed config"
-	{
-		"ar"		"شغل الإعداد \"{1}\"."
-	}
-
-	"Permabanned player"
-	{
-		"ar"		"حضر الاعب \"{1}\" من الدخول أبديا."
-	}
-
-	"Permabanned player reason"
-	{
-		"ar"		"حضر الاعب \"{1}\" من الدخول أبديا(السبب: {1})."
+		"ar"		"تم إضافة الحظر."
 	}
 
 	"Banned player"
@@ -50,69 +30,19 @@
 		"ar"		"حظر اللاعب \"{1}\" لمدت {2} دقائق(السبب: {3})."
 	}
 
-	"Removed bans matching"
-	{
-		"ar"		"تم حذف الأحظار المطابقة: {1}"
-	}
-
-	"Ban added"
-	{
-		"ar"		"تم إضافة الحظر."
-	}
-
-	"Admin cache refreshed"
-	{
-		"ar"		"تم إنعاش ترخيصات الآدمن."
-	}
-
-	"Identify player"
-	{
-		"ar"		"تعريف اللاعب"
-	}
-
 	"Choose Map"
 	{
 		"ar"		"إختر خريطة"
 	}
 
-	"Exec CFG"
+	"Config not found"
 	{
-		"ar"		"إستعمل ملف إعداد"
+		"ar"		"لم يتم العثور على ملف الأعدادات {1}."
 	}
 
-	"Admin logged in as"
+	"Cvar changed"
 	{
-		"ar"		"\"{1}\" دخل ك\"{2}\" بالترخيص: {3}"
-	}
-
-	"Admin logged in anon"
-	{
-		"ar"		"\"{1}\" لديه ترخيص: {2}"
-	}
-
-	"Player is not an admin"
-	{
-		"ar"		"\"{1}\" ليس بآدمن."
-	}
-
-	"Player is an admin"
-	{
-		"ar"		"\"{1}\" هو آدمن."
-	}
-
-	"Username"
-	{
-		"ar"		"إسم المستخدم"
-	}
-
-	"Kicked target"
-	{
-		"ar"		"طرد {1}"
-	}
-
-	"Admin access"
-	{
-		"ar"		"ترخيص للآدمن"
+		"ar"		"غير ال'cvar' من \"{1}\" إلى \"{2}\"."
 	}
 
 	"Cvar is now protected"
@@ -120,9 +50,79 @@
 		"ar"		"تم تحصين ال'cvar' \"{1}\"."
 	}
 
+	"Exec CFG"
+	{
+		"ar"		"إستعمل ملف إعداد"
+	}
+
+	"Executed config"
+	{
+		"ar"		"شغل الإعداد \"{1}\"."
+	}
+
+	"Identify player"
+	{
+		"ar"		"تعريف اللاعب"
+	}
+
+	"Kicked target"
+	{
+		"ar"		"طرد {1}"
+	}
+
 	"Kicked target reason"
 	{
 		"ar"		"طرد {1} (السبب: {2})."
+	}
+
+	"No access to cvar"
+	{
+		"ar"		"ليس لك الحق لإسعمال هذا الإعداد."
+	}
+
+	"Permabanned player"
+	{
+		"ar"		"حضر الاعب \"{1}\" من الدخول أبديا."
+	}
+
+	"Permabanned player reason"
+	{
+		"ar"		"حضر الاعب \"{1}\" من الدخول أبديا(السبب: {1})."
+	}
+
+	"Player is an admin"
+	{
+		"ar"		"\"{1}\" هو آدمن."
+	}
+
+	"Player is not an admin"
+	{
+		"ar"		"\"{1}\" ليس بآدمن."
+	}
+
+	"Removed bans matching"
+	{
+		"ar"		"تم حذف الأحظار المطابقة: {1}"
+	}
+
+	"Unable to find cvar"
+	{
+		"ar"		"لم يتم العثور على الإعداد: {1}"
+	}
+
+	"Username"
+	{
+		"ar"		"إسم المستخدم"
+	}
+
+	"Value of cvar"
+	{
+		"ar"		"قيمة الإعداد \"{1}\": \"{2}\""
+	}
+
+	"Admin logged in as"
+	{
+		"ar"		"\"{1}\" دخل ك\"{2}\" بالترخيص: {3}"
 	}
 
 }

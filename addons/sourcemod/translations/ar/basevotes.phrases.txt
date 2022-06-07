@@ -1,28 +1,8 @@
 "Phrases"
 {
-	"Initiate Vote"
+	"Ban vote"
 	{
-		"ar"		"أبدأ التصويت: {1}"
-	}
-
-	"Initiated Vote Map"
-	{
-		"ar"		"إبتدأ تصويت المابة "
-	}
-
-	"Initiated Vote Kick"
-	{
-		"ar"		"تصويت الطرد  المبتدأ  ضد {1}"
-	}
-
-	"Initiated Vote Ban"
-	{
-		"ar"		"تصويت الحظر المبتدأ ضد {1}"
-	}
-
-	"Map Vote"
-	{
-		"ar"		"تصويت المابة {1}:"
+		"ar"		"تصويت الحظر"
 	}
 
 	"Change Map To"
@@ -30,29 +10,29 @@
 		"ar"		"غير المابة ل: {1} ؟"
 	}
 
-	"Votekick Player"
+	"Confirm Vote"
 	{
-		"ar"		"إطرد اللاعب {1} ؟"
+		"ar"		"أكد التصويت"
 	}
 
-	"Voteban Player"
+	"Initiate Vote"
 	{
-		"ar"		"إحظر اللعب على {1} ؟"
+		"ar"		"أبدأ التصويت: {1}"
 	}
 
-	"Vote Successful"
+	"Initiated Vote Ban"
 	{
-		"ar"		"تصويت ناجح. (تم الحصول على {1}%% من {2})"
+		"ar"		"تصويت الحظر المبتدأ ضد {1}"
 	}
 
-	"Vote Failed"
+	"Initiated Vote Kick"
 	{
-		"ar"		"فشل التصويت. {1}%% تصويت لازم. (حصل {2}%% من {3} تصويتات)"
+		"ar"		"تصويت الطرد  المبتدأ  ضد {1}"
 	}
 
-	"Vote End"
+	"Initiated Vote Map"
 	{
-		"ar"		"الجواب ل {1} هو: {2}"
+		"ar"		"إبتدأ تصويت المابة "
 	}
 
 	"Kick vote"
@@ -60,24 +40,19 @@
 		"ar"		"تصويت الطرد"
 	}
 
-	"Ban vote"
+	"Map Vote"
 	{
-		"ar"		"تصويت الحظر"
-	}
-
-	"Map vote"
-	{
-		"ar"		"تصويت المابة"
-	}
-
-	"Confirm Vote"
-	{
-		"ar"		"أكد التصويت"
+		"ar"		"تصويت المابة {1}:"
 	}
 
 	"Map Vote In Use"
 	{
 		"ar"		"تصويت المابة في إستعمال"
+	}
+
+	"Map vote"
+	{
+		"ar"		"تصويت المابة"
 	}
 
 	"Please select a map"
@@ -88,6 +63,31 @@
 	"Start the Vote"
 	{
 		"ar"		"إبدأ التصويت"
+	}
+
+	"Vote End"
+	{
+		"ar"		"الجواب ل {1} هو: {2}"
+	}
+
+	"Vote Failed"
+	{
+		"ar"		"فشل التصويت. {1}%% تصويت لازم. (حصل {2}%% من {3} تصويتات)"
+	}
+
+	"Vote Successful"
+	{
+		"ar"		"تصويت ناجح. (تم الحصول على {1}%% من {2})"
+	}
+
+	"Voteban Player"
+	{
+		"ar"		"إحظر اللعب على {1} ؟"
+	}
+
+	"Votekick Player"
+	{
+		"ar"		"إطرد اللاعب {1} ؟"
 	}
 
 }

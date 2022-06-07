@@ -1,148 +1,8 @@
 "Phrases"
 {
-	"Yes"
-	{
-		"lv"		"Jā"
-	}
-
-	"No"
-	{
-		"lv"		"Nē"
-	}
-
-	"No matching client"
-	{
-		"lv"		"Atbilstošs klients netika atrasts."
-	}
-
-	"No matching clients"
-	{
-		"lv"		"Atbilstoši klienti netika atrasti."
-	}
-
-	"More than one client matches"
-	{
-		"lv"		"Vairāk par vienu spēlētāju atbilst tavām norādēm \"{1}\""
-	}
-
-	"More than one client matched"
-	{
-		"lv"		"Vairāk kā viens klients atbilst tavām norādēm."
-	}
-
-	"Player no longer available"
-	{
-		"lv"		"Spēlētājs ko esi izvēlējies vairs nav pieejams."
-	}
-
-	"Kick player"
-	{
-		"lv"		"Izmest spēlētāju"
-	}
-
-	"Kicked by admin"
-	{
-		"lv"		"Administrators izmeta"
-	}
-
-	"Changing map"
-	{
-		"lv"		"Maina karti uz {1}..."
-	}
-
-	"Map was not found"
-	{
-		"lv"		"Karte {1} netika atrasta."
-	}
-
-	"Unable to target"
-	{
-		"lv"		"Tu nevari veikt attiecīgo darbību šim spēlētājam."
-	}
-
-	"Name"
-	{
-		"lv"		"Niks"
-	}
-
-	"Access"
-	{
-		"lv"		"Pieeja"
-	}
-
-	"See console for output"
-	{
-		"lv"		"Skaties konsolē rezultātu."
-	}
-
-	"Cannot target bot"
-	{
-		"lv"		"Nevar izpildīt šo komandu uz Botu."
-	}
-
-	"Unable to find cvar"
-	{
-		"lv"		"Nevar atrast cvaru: {1}"
-	}
-
-	"No access to cvar"
-	{
-		"lv"		"Tev nav pieejas šim cvaram."
-	}
-
-	"Value of cvar"
-	{
-		"lv"		"Vērība cvaram \"{1}\": \"{2}\""
-	}
-
-	"Cvar changed"
-	{
-		"lv"		"Nomainija cvaru \"{1}\" uz \"{2}\"."
-	}
-
-	"Config not found"
-	{
-		"lv"		"Konfigurācijas fails \"{1}\" netika atrasts."
-	}
-
-	"Executed config"
-	{
-		"lv"		"Palaida \"{1}\" konfigurācijas failu."
-	}
-
 	"Admin cache refreshed"
 	{
 		"lv"		"Administratoru sarakst ir atjaunināts."
-	}
-
-	"Invalid Amount"
-	{
-		"lv"		"Tu norādiji nederīgu lielumu"
-	}
-
-	"Cannot be performed on dead"
-	{
-		"lv"		"Šī darbība nevar tikt izmantota uz mirušu spēletāju \"{1}\""
-	}
-
-	"Player has since died"
-	{
-		"lv"		"Darbība nevar tikt veikta, jo spēlētājs ir miris."
-	}
-
-	"Vote in Progress"
-	{
-		"lv"		"Aptauja jau ir aktīva."
-	}
-
-	"Vote Not In Progress"
-	{
-		"lv"		"Dotajā brīdī nav aktīvu aptauju."
-	}
-
-	"Cancelled Vote"
-	{
-		"lv"		"Atcēla aptauju."
 	}
 
 	"Cancel vote"
@@ -150,24 +10,34 @@
 		"lv"		"Atcelt aptauju"
 	}
 
-	"Vote Select"
+	"Cancelled Vote"
 	{
-		"lv"		"{1} izvēlējās {2}."
+		"lv"		"Atcēla aptauju."
 	}
 
-	"No Votes Cast"
+	"Cannot be performed on dead"
 	{
-		"lv"		"Nav aktīvu aptauju."
+		"lv"		"Šī darbība nevar tikt izmantota uz mirušu spēletāju \"{1}\""
 	}
 
-	"Vote Delay Minutes"
+	"Cannot target bot"
 	{
-		"lv"		"Tev ir jāuzgaida {1} minūtes pirms jaunas aptaujas veikšanas."
+		"lv"		"Nevar izpildīt šo komandu uz Botu."
 	}
 
-	"Vote Delay Seconds"
+	"Changing map"
 	{
-		"lv"		"Tev ir jāuzgaida {1} sekundes pirms jaunas aptaujas veikšanas."
+		"lv"		"Maina karti uz {1}..."
+	}
+
+	"Command is in-game only"
+	{
+		"lv"		"Šī komanda ir pieejama tikai iekš spēles."
+	}
+
+	"Config not found"
+	{
+		"lv"		"Konfigurācijas fails \"{1}\" netika atrasts."
 	}
 
 	"Could not connect to database"
@@ -175,9 +45,29 @@
 		"lv"		"Nevar pievienoties datubāzei."
 	}
 
+	"Cvar changed"
+	{
+		"lv"		"Nomainija cvaru \"{1}\" uz \"{2}\"."
+	}
+
+	"Executed config"
+	{
+		"lv"		"Palaida \"{1}\" konfigurācijas failu."
+	}
+
 	"Failed to query database"
 	{
 		"lv"		"Nevar sazināties ar datubāzi."
+	}
+
+	"Invalid Amount"
+	{
+		"lv"		"Tu norādiji nederīgu lielumu"
+	}
+
+	"Kick player"
+	{
+		"lv"		"Izmest spēlētāju"
 	}
 
 	"Invalid SteamID specified"
@@ -185,14 +75,134 @@
 		"lv"		"Tu norādīji nepareizu Steam ID (jāsākas ar 'STEAM_:'). "
 	}
 
+	"Kicked player"
+	{
+		"lv"		"Izmeta spēlētāju '{1}'"
+	}
+
+	"Kicked by admin"
+	{
+		"lv"		"Administrators izmeta"
+	}
+
+	"Map was not found"
+	{
+		"lv"		"Karte {1} netika atrasta."
+	}
+
+	"Name"
+	{
+		"lv"		"Niks"
+	}
+
+	"No"
+	{
+		"lv"		"Nē"
+	}
+
+	"More than one client matches"
+	{
+		"lv"		"Vairāk par vienu spēlētāju atbilst tavām norādēm \"{1}\""
+	}
+
+	"Yes"
+	{
+		"lv"		"Jā"
+	}
+
+	"Vote in Progress"
+	{
+		"lv"		"Aptauja jau ir aktīva."
+	}
+
+	"Vote Select"
+	{
+		"lv"		"{1} izvēlējās {2}."
+	}
+
+	"Unable to find cvar"
+	{
+		"lv"		"Nevar atrast cvaru: {1}"
+	}
+
+	"Slayed player"
+	{
+		"lv"		"Nogalēja spēlētāju '{1}'"
+	}
+
+	"Slapped player"
+	{
+		"lv"		"Iepēra spēlētāju '{1}'"
+	}
+
+	"See console for output"
+	{
+		"lv"		"Skaties konsolē rezultātu."
+	}
+
 	"Reload admins"
 	{
 		"lv"		"Pārlādēt administratorus"
 	}
 
-	"Command is in-game only"
+	"Player no longer available"
 	{
-		"lv"		"Šī komanda ir pieejama tikai iekš spēles."
+		"lv"		"Spēlētājs ko esi izvēlējies vairs nav pieejams."
+	}
+
+	"Player has since died"
+	{
+		"lv"		"Darbība nevar tikt veikta, jo spēlētājs ir miris."
+	}
+
+	"Played Sound"
+	{
+		"lv"		"Atskaņoja skaņu spēlētājam '{1}'"
+	}
+
+	"No matching clients"
+	{
+		"lv"		"Atbilstoši klienti netika atrasti."
+	}
+
+	"No matching client"
+	{
+		"lv"		"Atbilstošs klients netika atrasts."
+	}
+
+	"No access to cvar"
+	{
+		"lv"		"Tev nav pieejas šim cvaram."
+	}
+
+	"No Votes Cast"
+	{
+		"lv"		"Nav aktīvu aptauju."
+	}
+
+	"Vote Not In Progress"
+	{
+		"lv"		"Dotajā brīdī nav aktīvu aptauju."
+	}
+
+	"Vote Delay Seconds"
+	{
+		"lv"		"Tev ir jāuzgaida {1} sekundes pirms jaunas aptaujas veikšanas."
+	}
+
+	"Vote Delay Minutes"
+	{
+		"lv"		"Tev ir jāuzgaida {1} minūtes pirms jaunas aptaujas veikšanas."
+	}
+
+	"Value of cvar"
+	{
+		"lv"		"Vērība cvaram \"{1}\": \"{2}\""
+	}
+
+	"Unable to target"
+	{
+		"lv"		"Tu nevari veikt attiecīgo darbību šim spēlētājam."
 	}
 
 	"Target must be dead"
@@ -210,24 +220,24 @@
 		"lv"		"Konkrētais spēlētājs vēl nav pilnībā pievienojies spēlei."
 	}
 
-	"Played Sound"
+	"More than one client matched"
 	{
-		"lv"		"Atskaņoja skaņu spēlētājam '{1}'"
+		"lv"		"Vairāk kā viens klients atbilst tavām norādēm."
 	}
 
-	"Slapped player"
+	"Access"
 	{
-		"lv"		"Iepēra spēlētāju '{1}'"
+		"lv"		"Pieeja"
 	}
 
-	"Slayed player"
+	"Off"
 	{
-		"lv"		"Nogalēja spēlētāju '{1}'"
+		"lv"		"Izslēgts"
 	}
 
-	"Kicked player"
+	"On"
 	{
-		"lv"		"Izmeta spēlētāju '{1}'"
+		"lv"		"Ieslēgts"
 	}
 
 	"Cannot participate in vote"
@@ -238,16 +248,6 @@
 	"Cannot change vote"
 	{
 		"lv"		"Tu nevari mainīt savu izvēli šinī aptaujā."
-	}
-
-	"On"
-	{
-		"lv"		"Ieslēgts"
-	}
-
-	"Off"
-	{
-		"lv"		"Izslēgts"
 	}
 
 }

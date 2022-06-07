@@ -1,23 +1,13 @@
 "Phrases"
 {
-	"Gag/Mute player"
-	{
-		"fi"		"Tuki/hiljennä pelaaja"
-	}
-
 	"Choose Type"
 	{
 		"fi"		"Valitse tyyppi"
 	}
 
-	"Gagged target"
+	"Gag/Mute player"
 	{
-		"fi"		"Tukittiin pelaajan {1} suu."
-	}
-
-	"Ungagged target"
-	{
-		"fi"		"{1} voi taas kirjoittaa."
+		"fi"		"Tuki/hiljennä pelaaja"
 	}
 
 	"Muted target"
@@ -25,29 +15,19 @@
 		"fi"		"Mykistettiin {1}."
 	}
 
-	"Unmuted target"
-	{
-		"fi"		"{1} voi taas puhua."
-	}
-
 	"Silenced target"
 	{
 		"fi"		"Vaiennettiin {1}."
 	}
 
-	"Unsilenced target"
+	"Unmuted target"
 	{
-		"fi"		"{1} voi taas puhua ja kirjoittaa."
+		"fi"		"{1} voi taas puhua."
 	}
 
-	"Mute Player"
+	"Gagged target"
 	{
-		"fi"		"Hiljennä pelaaja"
-	}
-
-	"UnMute Player"
-	{
-		"fi"		"Poista pelaajan mykistys"
+		"fi"		"Tukittiin pelaajan {1} suu."
 	}
 
 	"Gag Player"
@@ -55,9 +35,9 @@
 		"fi"		"Tuki pelaaja"
 	}
 
-	"UnGag Player"
+	"Mute Player"
 	{
-		"fi"		"Poista pelaajan tukinta"
+		"fi"		"Hiljennä pelaaja"
 	}
 
 	"Silence Player"
@@ -65,9 +45,29 @@
 		"fi"		"Vaienna pelaaja"
 	}
 
+	"UnGag Player"
+	{
+		"fi"		"Poista pelaajan tukinta"
+	}
+
+	"UnMute Player"
+	{
+		"fi"		"Poista pelaajan mykistys"
+	}
+
 	"UnSilence Player"
 	{
 		"fi"		"Poista pelaajan vaiennus"
+	}
+
+	"Unsilenced target"
+	{
+		"fi"		"{1} voi taas puhua ja kirjoittaa."
+	}
+
+	"Ungagged target"
+	{
+		"fi"		"{1} voi taas kirjoittaa."
 	}
 
 }

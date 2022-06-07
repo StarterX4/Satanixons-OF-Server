@@ -1,18 +1,13 @@
 "Phrases"
 {
-	"No Access"
-	{
-		"vi"		"Bạn không có quyền sử dụng lệnh này."
-	}
-
 	"Back"
 	{
 		"vi"		"Quay lại"
 	}
 
-	"Next"
+	"Changed Vote"
 	{
-		"vi"		"Tiếp"
+		"vi"		"{1} đã thay đổi phiếu bầu sang {2}"
 	}
 
 	"Exit"
@@ -20,9 +15,49 @@
 		"vi"		"Thoát"
 	}
 
+	"Name Reserved"
+	{
+		"vi"		"Tên của bạn đã bị đặt trước bởi SourceMod, nhập mật khẩu của bạn để dùng tên này."
+	}
+
+	"Next"
+	{
+		"vi"		"Tiếp"
+	}
+
+	"No Access"
+	{
+		"vi"		"Bạn không có quyền sử dụng lệnh này."
+	}
+
+	"No Vote"
+	{
+		"vi"		"Không có phiếu bầu"
+	}
+
 	"Previous"
 	{
 		"vi"		"Trước"
+	}
+
+	"Voted For"
+	{
+		"vi"		"{1} đã bầu chọn {2}"
+	}
+
+	"Vote Count"
+	{
+		"vi"		"Phiếu bầu: {1}/{2}, còn {3} giây nữa"
+	}
+
+	"_s"
+	{
+		"vi"		"{1}"
+	}
+
+	"all spectators"
+	{
+		"vi"		"Mọi người xem"
 	}
 
 	"all players"
@@ -48,41 +83,6 @@
 	"all alive players"
 	{
 		"vi"		"Mọi người chơi còn sống"
-	}
-
-	"_s"
-	{
-		"vi"		"{1}"
-	}
-
-	"all spectators"
-	{
-		"vi"		"Mọi người xem"
-	}
-
-	"Vote Count"
-	{
-		"vi"		"Phiếu bầu: {1}/{2}, còn {3} giây nữa"
-	}
-
-	"Voted For"
-	{
-		"vi"		"{1} đã bầu chọn {2}"
-	}
-
-	"Changed Vote"
-	{
-		"vi"		"{1} đã thay đổi phiếu bầu sang {2}"
-	}
-
-	"No Vote"
-	{
-		"vi"		"Không có phiếu bầu"
-	}
-
-	"Name Reserved"
-	{
-		"vi"		"Tên của bạn đã bị đặt trước bởi SourceMod, nhập mật khẩu của bạn để dùng tên này."
 	}
 
 }

@@ -1,13 +1,13 @@
 "Phrases"
 {
-	"Already Nominated"
+	"Can't Nominate Current Map"
 	{
-		"zho"		"你已經提名了一幅地圖."
+		"zho"		"你所選的地圖為當前地圖，無法提名"
 	}
 
-	"Max Nominations"
+	"Current Map"
 	{
-		"zho"		"達到最大提名數"
+		"zho"		"當前地圖"
 	}
 
 	"Map Already In Vote"
@@ -15,14 +15,14 @@
 		"zho"		"地圖 \"{1}\" 己在提名列表中"
 	}
 
-	"Map Inserted"
-	{
-		"zho"		"地圖 \"{1}\" 加入提名列表"
-	}
-
 	"Map Already Nominated"
 	{
 		"zho"		"你選擇的地圖已被提名"
+	}
+
+	"Map Inserted"
+	{
+		"zho"		"地圖 \"{1}\" 加入提名列表"
 	}
 
 	"Map Nominated"
@@ -35,24 +35,24 @@
 		"zho"		"{1} 更改他 / 她的提名為 {2}"
 	}
 
-	"Nominate Title"
-	{
-		"zho"		"提名地圖:"
-	}
-
-	"Can't Nominate Current Map"
-	{
-		"zho"		"你所選的地圖為當前地圖，無法提名"
-	}
-
 	"Map in Exclude List"
 	{
 		"zho"		"你所選的地圖最近已玩過了，無法提名"
 	}
 
-	"Current Map"
+	"Max Nominations"
 	{
-		"zho"		"當前地圖"
+		"zho"		"達到最大提名數"
+	}
+
+	"Nominate Title"
+	{
+		"zho"		"提名地圖:"
+	}
+
+	"Nominated"
+	{
+		"zho"		"已提名"
 	}
 
 	"Recently Played"
@@ -60,9 +60,9 @@
 		"zho"		"最近已玩"
 	}
 
-	"Nominated"
+	"Already Nominated"
 	{
-		"zho"		"已提名"
+		"zho"		"你已經提名了一幅地圖."
 	}
 
 }

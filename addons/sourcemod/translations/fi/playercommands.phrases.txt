@@ -1,13 +1,13 @@
 "Phrases"
 {
-	"Slap player"
-	{
-		"fi"		"Läpsäise pelaajaa"
-	}
-
 	"Slap damage"
 	{
 		"fi"		"Läpsäisyn vahinko"
+	}
+
+	"Slap player"
+	{
+		"fi"		"Läpsäise pelaajaa"
 	}
 
 	"Slay player"
@@ -15,14 +15,19 @@
 		"fi"		"Teloita pelaaja"
 	}
 
+	"Slayed target"
+	{
+		"fi"		"Teloitettiin {1}."
+	}
+
 	"Slapped target"
 	{
 		"fi"		"Läpsäistiin pelaajaa {1}."
 	}
 
-	"Slayed target"
+	"Dead Player Rename"
 	{
-		"fi"		"Teloitettiin {1}."
+		"fi"		"Pelaajan {1} nimi vaihdetaan seuraavassa erässä."
 	}
 
 	"Name changed"
@@ -30,19 +35,14 @@
 		"fi"		"Ylläpitäjä on vaihtanut nimesi"
 	}
 
-	"Renamed target"
-	{
-		"fi"		"Uudelleennimettiin {1}."
-	}
-
 	"Rename player"
 	{
 		"fi"		"Uudelleennimeä pelaaja"
 	}
 
-	"Dead Player Rename"
+	"Renamed target"
 	{
-		"fi"		"Pelaajan {1} nimi vaihdetaan seuraavassa erässä."
+		"fi"		"Uudelleennimettiin {1}."
 	}
 
 }

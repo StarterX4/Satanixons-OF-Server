@@ -1,38 +1,8 @@
 "Phrases"
 {
-	"Gag/Mute player"
-	{
-		"lv"		"Runas/Rakstīšanas aizliegumi"
-	}
-
 	"Choose Type"
 	{
 		"lv"		"Izvēlies veidu"
-	}
-
-	"Gagged target"
-	{
-		"lv"		"Aizliedza rakstīt {1}.  "
-	}
-
-	"Ungagged target"
-	{
-		"lv"		"Atgriež iespēju runāt {1}."
-	}
-
-	"Muted target"
-	{
-		"lv"		"Aizliedza runāt {1}.  "
-	}
-
-	"Unmuted target"
-	{
-		"lv"		"Atgriež iespēju rakstīt {1}."
-	}
-
-	"Silenced target"
-	{
-		"lv"		"Apklusināja {1}."
 	}
 
 	"Unsilenced target"
@@ -40,19 +10,44 @@
 		"lv"		"Noņēma klusumu no spēlētāja {1}."
 	}
 
-	"Mute Player"
+	"Silenced target"
 	{
-		"lv"		"Aizliegt runāt"
+		"lv"		"Apklusināja {1}."
+	}
+
+	"Muted target"
+	{
+		"lv"		"Aizliedza runāt {1}.  "
+	}
+
+	"Ungagged target"
+	{
+		"lv"		"Atgriež iespēju runāt {1}."
+	}
+
+	"Unmuted target"
+	{
+		"lv"		"Atgriež iespēju rakstīt {1}."
+	}
+
+	"Gagged target"
+	{
+		"lv"		"Aizliedza rakstīt {1}.  "
+	}
+
+	"Gag/Mute player"
+	{
+		"lv"		"Runas/Rakstīšanas aizliegumi"
+	}
+
+	"UnSilence Player"
+	{
+		"lv"		"Noņemt saziņas aizliegumus"
 	}
 
 	"UnMute Player"
 	{
 		"lv"		"Noņemt rakstīšanas aizliegumu"
-	}
-
-	"Gag Player"
-	{
-		"lv"		"Aizliegt rakstīt"
 	}
 
 	"UnGag Player"
@@ -65,9 +60,14 @@
 		"lv"		"Apklusināt spēlētaju"
 	}
 
-	"UnSilence Player"
+	"Mute Player"
 	{
-		"lv"		"Noņemt saziņas aizliegumus"
+		"lv"		"Aizliegt runāt"
+	}
+
+	"Gag Player"
+	{
+		"lv"		"Aizliegt rakstīt"
 	}
 
 }

@@ -16,65 +16,59 @@
 	{
 		"Offsets"
 		{
-			"SetOwnerEntity"
-			{
-				"windows"	"17"
-				"linux"		"18"
-				"mac"		"18"
-			}
 			"GiveNamedItem"
 			{
-				"windows"	"408"
-				"linux"		"409"
-				"mac"		"409"
+				"windows"	"401"
+				"linux"		"405"
+				"mac"		"405"
 			}
 			"RemovePlayerItem"
 			{
-				"windows"	"277"
-				"linux"		"278"
-				"mac"		"278"
+				"windows"	"273"
+				"linux"		"274"
+				"mac"		"274"
 			}
 			"Weapon_GetSlot"
 			{
-				"windows"	"275"
-				"linux"		"276"
-				"mac"		"276"
+				"windows"	"271"
+				"linux"		"272"
+				"mac"		"272"
 			}
 			"Ignite"
+			{
+				"windows"	"212"
+				"linux"		"213"
+				"mac"		"213"
+			}
+			"Extinguish"
 			{
 				"windows"	"216"
 				"linux"		"217"
 				"mac"		"217"
 			}
-			"Extinguish"
-			{
-				"windows"	"220"
-				"linux"		"221"
-				"mac"		"221"
-			}
 			"Teleport"
 			{
-				"windows"	"111"
-				"linux"		"112"
-				"mac"		"112"
+				"windows"	"108"
+				"linux"		"109"
+				"mac"		"109"
 			}
 			"CommitSuicide"
 			{
-				"windows"	"449"
-				"linux"		"449"
-				"mac"		"449"
+				"windows"	"445"
+				"linux"		"445"
+				"mac"		"445"
 			}
 			"GetVelocity"
 			{
-				"windows"	"143"
-				"linux"		"144"
-				"mac"		"144"
+				"windows"	"140"
+				"linux"		"141"
+				"mac"		"141"
 			}
 			"EyeAngles"
 			{
-				"windows"	"134"
-				"linux"		"135"
-				"mac"		"135"
+				"windows"	"131"
+				"linux"		"132"
+				"mac"		"132"
 			}
 			"SetEntityModel"
 			{
@@ -90,9 +84,9 @@
 			}
 			"WeaponEquip"
 			{
-				"windows"	"268"
-				"linux"		"269"
-				"mac"		"269"
+				"windows"	"264"
+				"linux"		"265"
+				"mac"		"265"
 			}
 			"Activate"
 			{
@@ -102,21 +96,15 @@
 			}
 			"PlayerRunCmd"
 			{
-				"windows"	"426"
-				"linux"		"427"
-				"mac"		"427"
+				"windows"	"422"
+				"linux"		"423"
+				"mac"		"423"
 			}
 			"GiveAmmo"
 			{
-				"windows"	"259"
-				"linux"		"260"
-				"mac"		"260"
-			}
-			"GetAttachment"
-			{
-				"windows"	"212"
-				"linux"		"213"
-				"mac"		"213"
+				"windows"	"255"
+				"linux"		"256"
+				"mac"		"256"
 			}
 		}
 		
@@ -138,21 +126,6 @@
 				"windows"	"\x55\x8B\xEC\x81\xEC\x24\x01\x00\x00\x53\x8B\xC1"
 				"linux"		"@_ZN17CBaseEntityOutput10FireOutputE9variant_tP11CBaseEntityS2_f"
 				"mac"		"@_ZN17CBaseEntityOutput10FireOutputE9variant_tP11CBaseEntityS2_f"
-			}
-		}
-	}
-	
-	/* CBaseAnimating::LookupAttachment */
-	"#default"
-	{
-		"Signatures"
-		{
-			"LookupAttachment"
-			{
-				"library"	"server"
-				"windows"	"\x55\x8B\xEC\x56\x8B\xF1\x80\xBE\x41\x03\x00\x00\x00\x75\x2A\x83\xBE\x6C\x04\x00\x00\x00\x75\x2A\xE8\x2A\x2A\x2A\x2A\x85\xC0\x74\x2A\x8B\xCE\xE8\x2A\x2A\x2A\x2A\x8B\x86\x6C\x04\x00\x00\x85\xC0\x74\x2A\x83\x38\x00\x74\x2A\xFF\x75\x08\x50\xE8\x2A\x2A\x2A\x2A\x83\xC4\x08\x40"
-				"linux"		"@_ZN14CBaseAnimating16LookupAttachmentEPKc"
-				"mac"		"@_ZN14CBaseAnimating16LookupAttachmentEPKc"
 			}
 		}
 	}

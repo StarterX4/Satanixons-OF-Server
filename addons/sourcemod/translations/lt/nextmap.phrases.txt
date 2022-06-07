@@ -5,9 +5,9 @@
 		"lt"		"Sekantis žemėlapis: {1}"
 	}
 
-	"Map History"
+	"Current Map"
 	{
-		"lt"		"Žemėlapių Istorija"
+		"lt"		"Dabartinis Žemėlapis"
 	}
 
 	"Map"
@@ -15,9 +15,9 @@
 		"lt"		"[Žemėlapis]"
 	}
 
-	"Started"
+	"Map History"
 	{
-		"lt"		"[Prasidėjo]"
+		"lt"		"Žemėlapių Istorija"
 	}
 
 	"Played Time"
@@ -30,9 +30,9 @@
 		"lt"		"[Pasibaigimo priežastis]"
 	}
 
-	"Current Map"
+	"Started"
 	{
-		"lt"		"Dabartinis Žemėlapis"
+		"lt"		"[Prasidėjo]"
 	}
 
 	"ago"

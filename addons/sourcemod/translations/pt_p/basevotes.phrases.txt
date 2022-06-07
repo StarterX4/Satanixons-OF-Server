@@ -1,28 +1,8 @@
 "Phrases"
 {
-	"Initiate Vote"
+	"Ban vote"
 	{
-		"pt_p"		"Votação iniciada: {1}"
-	}
-
-	"Initiated Vote Map"
-	{
-		"pt_p"		"Votação de mapa iniciada."
-	}
-
-	"Initiated Vote Kick"
-	{
-		"pt_p"		"Votação para expulsar {1} iniciada."
-	}
-
-	"Initiated Vote Ban"
-	{
-		"pt_p"		"Votacão para banir {1} iniciada."
-	}
-
-	"Map Vote"
-	{
-		"pt_p"		"Votação de mapa: {1} "
+		"pt_p"		"Votação para banir"
 	}
 
 	"Change Map To"
@@ -30,29 +10,29 @@
 		"pt_p"		"Alterar mapa para {1}? "
 	}
 
-	"Votekick Player"
+	"Confirm Vote"
 	{
-		"pt_p"		"Expulsar {1}? "
+		"pt_p"		"Confirmar voto"
 	}
 
-	"Voteban Player"
+	"Initiate Vote"
 	{
-		"pt_p"		"Banir {1}? "
+		"pt_p"		"Votação iniciada: {1}"
 	}
 
-	"Vote Successful"
+	"Initiated Vote Ban"
 	{
-		"pt_p"		"Votação aprovada. ({1}%% de {2} votos) "
+		"pt_p"		"Votacão para banir {1} iniciada."
 	}
 
-	"Vote Failed"
+	"Initiated Vote Kick"
 	{
-		"pt_p"		"A votação falhou. {1}%% votos necessários. ({2}%% de {3})"
+		"pt_p"		"Votação para expulsar {1} iniciada."
 	}
 
-	"Vote End"
+	"Initiated Vote Map"
 	{
-		"pt_p"		"A resposta para {1} é: {2}."
+		"pt_p"		"Votação de mapa iniciada."
 	}
 
 	"Kick vote"
@@ -60,19 +40,14 @@
 		"pt_p"		"Votação de expulsão"
 	}
 
-	"Ban vote"
+	"Map Vote"
 	{
-		"pt_p"		"Votação para banir"
+		"pt_p"		"Votação de mapa: {1} "
 	}
 
 	"Map vote"
 	{
 		"pt_p"		"Votação de mapa"
-	}
-
-	"Confirm Vote"
-	{
-		"pt_p"		"Confirmar voto"
 	}
 
 	"Map Vote In Use"
@@ -88,6 +63,31 @@
 	"Start the Vote"
 	{
 		"pt_p"		"Iniciar a votação"
+	}
+
+	"Vote End"
+	{
+		"pt_p"		"A resposta para {1} é: {2}."
+	}
+
+	"Vote Failed"
+	{
+		"pt_p"		"A votação falhou. {1}%% votos necessários. ({2}%% de {3})"
+	}
+
+	"Vote Successful"
+	{
+		"pt_p"		"Votação aprovada. ({1}%% de {2} votos) "
+	}
+
+	"Voteban Player"
+	{
+		"pt_p"		"Banir {1}? "
+	}
+
+	"Votekick Player"
+	{
+		"pt_p"		"Expulsar {1}? "
 	}
 
 }

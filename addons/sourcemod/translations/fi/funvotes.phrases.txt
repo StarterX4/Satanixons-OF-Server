@@ -1,28 +1,13 @@
 "Phrases"
 {
-	"Initiated Vote Gravity"
+	"Alltalk vote"
 	{
-		"fi"		"Aloitettiin painovoimaäänestys."
+		"fi"		"Alltalk-äänestys"
 	}
 
-	"Initiated Vote Burn"
+	"Burn vote"
 	{
-		"fi"		"Aloitettiin polttoäänestys pelaajaa {1} vastaan."
-	}
-
-	"Initiated Vote Slay"
-	{
-		"fi"		"Aloitettiin teloitusäänestys pelaajaa {1} vastaan."
-	}
-
-	"Initiated Vote Alltalk"
-	{
-		"fi"		"Aloitettiin alltalk-äänestys."
-	}
-
-	"Initiated Vote FF"
-	{
-		"fi"		"Aloitettiin Friendly Fire -äänestys."
+		"fi"		"Polttoäänestys"
 	}
 
 	"Gravity Vote"
@@ -30,19 +15,44 @@
 		"fi"		"Painovoimaäänestys: {1}"
 	}
 
+	"Gravity vote"
+	{
+		"fi"		"Painovoimaäänestys"
+	}
+
+	"Slay vote"
+	{
+		"fi"		"Teloitusäänestys"
+	}
+
 	"Change Gravity To"
 	{
 		"fi"		"Vaihdetaanko painovoimaksi {1}?"
 	}
 
-	"Voteburn player"
+	"Initiated Vote Alltalk"
 	{
-		"fi"		"Poltetaanko pelaaja {1}?"
+		"fi"		"Aloitettiin alltalk-äänestys."
 	}
 
-	"Voteslay Player"
+	"Initiated Vote Burn"
 	{
-		"fi"		"Teloitetaanko {1}?"
+		"fi"		"Aloitettiin polttoäänestys pelaajaa {1} vastaan."
+	}
+
+	"Initiated Vote FF"
+	{
+		"fi"		"Aloitettiin Friendly Fire -äänestys."
+	}
+
+	"Initiated Vote Gravity"
+	{
+		"fi"		"Aloitettiin painovoimaäänestys."
+	}
+
+	"Initiated Vote Slay"
+	{
+		"fi"		"Aloitettiin teloitusäänestys pelaajaa {1} vastaan."
 	}
 
 	"Votealltalk Off"
@@ -55,6 +65,21 @@
 		"fi"		"Laitetaanko alltalk päälle? {1}"
 	}
 
+	"Voteburn player"
+	{
+		"fi"		"Poltetaanko pelaaja {1}?"
+	}
+
+	"Voteslay Player"
+	{
+		"fi"		"Teloitetaanko {1}?"
+	}
+
+	"Slayed player"
+	{
+		"fi"		"Teloitettiin pelaaja '{1}'"
+	}
+
 	"Voteff Off"
 	{
 		"fi"		"Laitetaanko omien tulitus pois päältä? {1}"
@@ -65,34 +90,9 @@
 		"fi"		"Laitetaanko omien tulitus päälle? {1}"
 	}
 
-	"Gravity vote"
-	{
-		"fi"		"Painovoimaäänestys"
-	}
-
 	"Vote FF"
 	{
 		"fi"		"Äänestä omien tulituksesta"
-	}
-
-	"Burn vote"
-	{
-		"fi"		"Polttoäänestys"
-	}
-
-	"Alltalk vote"
-	{
-		"fi"		"Alltalk-äänestys"
-	}
-
-	"Slay vote"
-	{
-		"fi"		"Teloitusäänestys"
-	}
-
-	"Slayed player"
-	{
-		"fi"		"Teloitettiin pelaaja '{1}'"
 	}
 
 }

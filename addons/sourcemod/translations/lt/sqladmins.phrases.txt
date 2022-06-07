@@ -1,5 +1,15 @@
 "Phrases"
 {
+	"Added group to user"
+	{
+		"lt"		"Sėkmingai pridėta viena grupė nurodytam administratoriui."
+	}
+
+	"Added groups to user"
+	{
+		"lt"		"Sėkmingai pridėta {1} grupė(s) nurodytam administratoriui."
+	}
+
 	"Invalid authtype"
 	{
 		"lt"		"Atpažinimo tipas turi būti 'steam', 'vardas', arba 'ip'."
@@ -10,14 +20,14 @@
 		"lt"		"Neliečiamybės parametras turi būti teigiamas."
 	}
 
-	"SQL Admin already exists"
-	{
-		"lt"		"Administratorius, nurodytais rekvizitais, jau egzistuoja."
-	}
-
 	"SQL Admin added"
 	{
 		"lt"		"Administratorius sėkmingai įrašytas į duomenų bazę."
+	}
+
+	"SQL Admin already exists"
+	{
+		"lt"		"Administratorius, nurodytais rekvizitais, jau egzistuoja."
 	}
 
 	"SQL Admin deleted"
@@ -25,19 +35,34 @@
 		"lt"		"Administratorius sėkmingai pašalintas iš duomenų bazės."
 	}
 
+	"SQL Admin groups reset"
+	{
+		"lt"		"Administratorių grupės buvo sėkmingai nunulintos."
+	}
+
 	"SQL Admin not found"
 	{
 		"lt"		"Administratorius, nurodytais rekvizitais, nebuvo rastas."
 	}
 
-	"SQL Group already exists"
+	"SQL Group X failed to bind"
 	{
-		"lt"		"Grupė, nurodytu vardu, jau egzistuoja."
+		"lt"		"Nepavyko priskirti grupės: \"{1}\""
+	}
+
+	"SQL Group X not found"
+	{
+		"lt"		"Nepavyko rasti grupės: \"{1}\""
 	}
 
 	"SQL Group added"
 	{
 		"lt"		"Grupė sėkmingai įrašyta į duomenų bazę."
+	}
+
+	"SQL Group already exists"
+	{
+		"lt"		"Grupė, nurodytu vardu, jau egzistuoja."
 	}
 
 	"SQL Group deleted"
@@ -48,31 +73,6 @@
 	"SQL Group not found"
 	{
 		"lt"		"Nepavyko rasti grupės, nurodytu vardu."
-	}
-
-	"SQL Admin groups reset"
-	{
-		"lt"		"Administratorių grupės buvo sėkmingai nunulintos."
-	}
-
-	"SQL Group X not found"
-	{
-		"lt"		"Nepavyko rasti grupės: \"{1}\""
-	}
-
-	"SQL Group X failed to bind"
-	{
-		"lt"		"Nepavyko priskirti grupės: \"{1}\""
-	}
-
-	"Added group to user"
-	{
-		"lt"		"Sėkmingai pridėta viena grupė nurodytam administratoriui."
-	}
-
-	"Added groups to user"
-	{
-		"lt"		"Sėkmingai pridėta {1} grupė(s) nurodytam administratoriui."
 	}
 
 }

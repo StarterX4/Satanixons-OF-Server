@@ -1,38 +1,88 @@
 "Phrases"
 {
-	"Yes"
+	"Access"
 	{
-		"ar"		"نعم"
+		"ar"		"إذن الدخول"
 	}
 
-	"No"
+	"Admin cache refreshed"
 	{
-		"ar"		"لا"
+		"ar"		"تم تنعيش تخزين الأدمن ."
 	}
 
-	"No matching client"
+	"Cancel vote"
 	{
-		"ar"		"لم يتم العثور على لاعب مطابق."
+		"ar"		"تم إلغاء التصويت"
 	}
 
-	"No matching clients"
+	"Cancelled Vote"
 	{
-		"ar"		"لم يتم العثور على لاعبين مطابقين."
+		"ar"		"الغى التصويت."
 	}
 
-	"More than one client matches"
+	"Cannot be performed on dead"
 	{
-		"ar"		"أكثر من لاعب يطابق الأمر المعطى \"{1}\""
+		"ar"		"لا يمكن تنفيد العملية على لاعب ميت \"{1}\""
 	}
 
-	"More than one client matched"
+	"Cannot change vote"
 	{
-		"ar"		"أكثر من لاعب يطابق الأمر المعطى"
+		"ar"		"لا يمكنك تغيير مجموعتك لهذا التصويت."
 	}
 
-	"Player no longer available"
+	"Cannot participate in vote"
 	{
-		"ar"		"اللاعب الذي إخترت غير موجود."
+		"ar"		"لا يمكنك المشاركة في هذا التصويت."
+	}
+
+	"Cannot target bot"
+	{
+		"ar"		"لا يمكنك تنفيذ العمليةعلى لاعب(إلكتروني)."
+	}
+
+	"Changing map"
+	{
+		"ar"		"يتم تغيير المابة ل {1}..."
+	}
+
+	"Command is in-game only"
+	{
+		"ar"		"لا يمكنك من خارج اللعبة."
+	}
+
+	"Config not found"
+	{
+		"ar"		"لم يتم العثور على ملف التعديلات {1}"
+	}
+
+	"Could not connect to database"
+	{
+		"ar"		"لم يمكن التوصل بقاعدة البيانات."
+	}
+
+	"Cvar changed"
+	{
+		"ar"		"تم تغير التعديل \"{1}\" إلى \"{2}\""
+	}
+
+	"Executed config"
+	{
+		"ar"		"التعديلات المستعملة {1}."
+	}
+
+	"Failed to query database"
+	{
+		"ar"		"لم يمكن استعاد المعلومات من قاعدة البيانات."
+	}
+
+	"Invalid Amount"
+	{
+		"ar"		"الحجم المحدد غير مسموح"
+	}
+
+	"Invalid SteamID specified"
+	{
+		"ar"		"لقد حددة رقم خاطئ(لابد أن يبدء ب STEAM_)"
 	}
 
 	"Kick player"
@@ -45,9 +95,9 @@
 		"ar"		"طرد من قبل الآدمن"
 	}
 
-	"Changing map"
+	"Kicked player"
 	{
-		"ar"		"يتم تغيير المابة ل {1}..."
+		"ar"		"إطرد اللاعب '{1}'"
 	}
 
 	"Map was not found"
@@ -55,9 +105,14 @@
 		"ar"		"لم يتم العثور على المابة {1}."
 	}
 
-	"Unable to target"
+	"More than one client matches"
 	{
-		"ar"		"لا يمكن الإسعمال على هذا اللاعب."
+		"ar"		"أكثر من لاعب يطابق الأمر المعطى \"{1}\""
+	}
+
+	"More than one client matched"
+	{
+		"ar"		"أكثر من لاعب يطابق الأمر المعطى"
 	}
 
 	"Name"
@@ -65,94 +120,9 @@
 		"ar"		"الإسم"
 	}
 
-	"Access"
+	"No"
 	{
-		"ar"		"إذن الدخول"
-	}
-
-	"See console for output"
-	{
-		"ar"		"أنظر ال'console' للمعلومات."
-	}
-
-	"Cannot target bot"
-	{
-		"ar"		"لا يمكنك تنفيذ العمليةعلى لاعب(إلكتروني)."
-	}
-
-	"Unable to find cvar"
-	{
-		"ar"		"لا يمكن العثور على الإعداد: {1}"
-	}
-
-	"No access to cvar"
-	{
-		"ar"		"ليس لديك الحق لتمارس الأمر."
-	}
-
-	"Value of cvar"
-	{
-		"ar"		"قيمت الإعداد \"{1}\": \"{2}\""
-	}
-
-	"Cvar changed"
-	{
-		"ar"		"تم تغير التعديل \"{1}\" إلى \"{2}\""
-	}
-
-	"Config not found"
-	{
-		"ar"		"لم يتم العثور على ملف التعديلات {1}"
-	}
-
-	"Executed config"
-	{
-		"ar"		"التعديلات المستعملة {1}."
-	}
-
-	"Admin cache refreshed"
-	{
-		"ar"		"تم تنعيش تخزين الأدمن ."
-	}
-
-	"Invalid Amount"
-	{
-		"ar"		"الحجم المحدد غير مسموح"
-	}
-
-	"Cannot be performed on dead"
-	{
-		"ar"		"لا يمكن تنفيد العملية على لاعب ميت \"{1}\""
-	}
-
-	"Player has since died"
-	{
-		"ar"		"لا يمكن تنفيد العملية على اللاعب، منذ موته."
-	}
-
-	"Vote in Progress"
-	{
-		"ar"		"هناك تصويت حاليا."
-	}
-
-	"Vote Not In Progress"
-	{
-		"ar"		"لا يوجد هناك تصويت حاليا."
-	}
-
-	"Cancelled Vote"
-	{
-		"ar"		"الغى التصويت."
-	}
-
-	"Cancel vote"
-	{
-		"ar"		"تم إلغاء التصويت"
-	}
-
-	"Vote Select"
-	{
-		"ar"		"{1} إختار {2}."
+		"ar"		"لا"
 	}
 
 	"No Votes Cast"
@@ -160,29 +130,39 @@
 		"ar"		"لم يتم تلقي أي تصويت."
 	}
 
-	"Vote Delay Minutes"
+	"No access to cvar"
 	{
-		"ar"		"يجب عليك الإنتظار {1} دقائق حتى إعادت تصويت آخر."
+		"ar"		"ليس لديك الحق لتمارس الأمر."
 	}
 
-	"Vote Delay Seconds"
+	"No matching client"
 	{
-		"ar"		"يجب عليك الإنتظار {1} ثوان حتى إعادت تصويت آخر."
+		"ar"		"لم يتم العثور على لاعب مطابق."
 	}
 
-	"Could not connect to database"
+	"No matching clients"
 	{
-		"ar"		"لم يمكن التوصل بقاعدة البيانات."
+		"ar"		"لم يتم العثور على لاعبين مطابقين."
 	}
 
-	"Failed to query database"
+	"Off"
 	{
-		"ar"		"لم يمكن استعاد المعلومات من قاعدة البيانات."
+		"ar"		"مطفأ"
 	}
 
-	"Invalid SteamID specified"
+	"On"
 	{
-		"ar"		"لقد حددة رقم خاطئ(لابد أن يبدء ب STEAM_)"
+		"ar"		"مشغل"
+	}
+
+	"Played Sound"
+	{
+		"ar"		"شغل الصوت على اللاعب '{1}'"
+	}
+
+	"Player no longer available"
+	{
+		"ar"		"اللاعب الذي إخترت غير موجود."
 	}
 
 	"Reload admins"
@@ -190,29 +170,24 @@
 		"ar"		"أعد تحميل لائحت الأدمن."
 	}
 
-	"Command is in-game only"
+	"Yes"
 	{
-		"ar"		"لا يمكنك من خارج اللعبة."
+		"ar"		"نعم"
 	}
 
-	"Target must be dead"
+	"Vote Select"
 	{
-		"ar"		"العملية يمكن إستعمالها على اللاعبين الأموات فقط."
+		"ar"		"{1} إختار {2}."
 	}
 
-	"Target must be alive"
+	"Player has since died"
 	{
-		"ar"		"العملية يمكن إستعمالها على اللاعبين الأحياء فقط."
+		"ar"		"لا يمكن تنفيد العملية على اللاعب، منذ موته."
 	}
 
-	"Target is not in game"
+	"See console for output"
 	{
-		"ar"		"اللاعب ليس بالداخل كاملا."
-	}
-
-	"Played Sound"
-	{
-		"ar"		"شغل الصوت على اللاعب '{1}'"
+		"ar"		"أنظر ال'console' للمعلومات."
 	}
 
 	"Slapped player"
@@ -225,29 +200,54 @@
 		"ar"		"قتل اللاعب '{1}'"
 	}
 
-	"Kicked player"
+	"Target is not in game"
 	{
-		"ar"		"إطرد اللاعب '{1}'"
+		"ar"		"اللاعب ليس بالداخل كاملا."
 	}
 
-	"Cannot participate in vote"
+	"Target must be alive"
 	{
-		"ar"		"لا يمكنك المشاركة في هذا التصويت."
+		"ar"		"العملية يمكن إستعمالها على اللاعبين الأحياء فقط."
 	}
 
-	"Cannot change vote"
+	"Target must be dead"
 	{
-		"ar"		"لا يمكنك تغيير مجموعتك لهذا التصويت."
+		"ar"		"العملية يمكن إستعمالها على اللاعبين الأموات فقط."
 	}
 
-	"On"
+	"Unable to find cvar"
 	{
-		"ar"		"مشغل"
+		"ar"		"لا يمكن العثور على الإعداد: {1}"
 	}
 
-	"Off"
+	"Unable to target"
 	{
-		"ar"		"مطفأ"
+		"ar"		"لا يمكن الإسعمال على هذا اللاعب."
+	}
+
+	"Value of cvar"
+	{
+		"ar"		"قيمت الإعداد \"{1}\": \"{2}\""
+	}
+
+	"Vote Delay Minutes"
+	{
+		"ar"		"يجب عليك الإنتظار {1} دقائق حتى إعادت تصويت آخر."
+	}
+
+	"Vote Delay Seconds"
+	{
+		"ar"		"يجب عليك الإنتظار {1} ثوان حتى إعادت تصويت آخر."
+	}
+
+	"Vote Not In Progress"
+	{
+		"ar"		"لا يوجد هناك تصويت حاليا."
+	}
+
+	"Vote in Progress"
+	{
+		"ar"		"هناك تصويت حاليا."
 	}
 
 }

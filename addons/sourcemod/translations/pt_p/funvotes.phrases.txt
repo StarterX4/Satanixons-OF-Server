@@ -1,33 +1,13 @@
 "Phrases"
 {
-	"Initiated Vote Gravity"
+	"Alltalk vote"
 	{
-		"pt_p"		"Foi iniciada uma votação para alterar a gravidade. "
+		"pt_p"		"Votação para conversação aberta (All Talk)"
 	}
 
-	"Initiated Vote Burn"
+	"Burn vote"
 	{
-		"pt_p"		"Foi iniciada uma votação para atear fogo em {1}."
-	}
-
-	"Initiated Vote Slay"
-	{
-		"pt_p"		"Foi iniciada uma votação para chacinar {1}."
-	}
-
-	"Initiated Vote Alltalk"
-	{
-		"pt_p"		"Foi iniciada uma votação para conversação aberta (All Talk)"
-	}
-
-	"Initiated Vote FF"
-	{
-		"pt_p"		"Foi iniciada uma votação para alterar o fogo amigável."
-	}
-
-	"Gravity Vote"
-	{
-		"pt_p"		"Votação para alterar a gravidade: {1}"
+		"pt_p"		"Votação para atear fogo"
 	}
 
 	"Change Gravity To"
@@ -35,14 +15,54 @@
 		"pt_p"		"Alterar a gravidade para {1}?"
 	}
 
-	"Voteburn player"
+	"Gravity Vote"
 	{
-		"pt_p"		"Atear fogo em {1}? "
+		"pt_p"		"Votação para alterar a gravidade: {1}"
 	}
 
-	"Voteslay Player"
+	"Gravity vote"
 	{
-		"pt_p"		"Chacinar {1}? "
+		"pt_p"		"Votação para alterar a gravidade"
+	}
+
+	"Initiated Vote Alltalk"
+	{
+		"pt_p"		"Foi iniciada uma votação para conversação aberta (All Talk)"
+	}
+
+	"Initiated Vote Burn"
+	{
+		"pt_p"		"Foi iniciada uma votação para atear fogo em {1}."
+	}
+
+	"Initiated Vote FF"
+	{
+		"pt_p"		"Foi iniciada uma votação para alterar o fogo amigável."
+	}
+
+	"Initiated Vote Gravity"
+	{
+		"pt_p"		"Foi iniciada uma votação para alterar a gravidade. "
+	}
+
+	"Initiated Vote Slay"
+	{
+		"pt_p"		"Foi iniciada uma votação para chacinar {1}."
+	}
+
+	"Slay vote"
+	{
+		"pt_p"		"Votação para chacinar"
+	}
+
+	"Slayed player"
+	{
+		"pt_p"		"O jogador '{1}' foi chacinado"
+	}
+
+	"Vote FF"
+	{
+		"pt_p"		"Votação para fogo amigável"
 	}
 
 	"Votealltalk Off"
@@ -55,6 +75,11 @@
 		"pt_p"		"Ativar conversação aberta (All Talk)? {1} "
 	}
 
+	"Voteburn player"
+	{
+		"pt_p"		"Atear fogo em {1}? "
+	}
+
 	"Voteff Off"
 	{
 		"pt_p"		"Desativar fogo amigável? {1} "
@@ -65,34 +90,9 @@
 		"pt_p"		"Ativar fogo amigável? {1} "
 	}
 
-	"Gravity vote"
+	"Voteslay Player"
 	{
-		"pt_p"		"Votação para alterar a gravidade"
-	}
-
-	"Vote FF"
-	{
-		"pt_p"		"Votação para fogo amigável"
-	}
-
-	"Burn vote"
-	{
-		"pt_p"		"Votação para atear fogo"
-	}
-
-	"Alltalk vote"
-	{
-		"pt_p"		"Votação para conversação aberta (All Talk)"
-	}
-
-	"Slay vote"
-	{
-		"pt_p"		"Votação para chacinar"
-	}
-
-	"Slayed player"
-	{
-		"pt_p"		"O jogador '{1}' foi chacinado"
+		"pt_p"		"Chacinar {1}? "
 	}
 
 }

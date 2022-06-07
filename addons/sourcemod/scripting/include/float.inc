@@ -264,7 +264,7 @@ stock int RoundFloat(float value)
 #if !defined __sourcepawn2__
 #pragma rational Float
 
-// Internal aliases for backwards compatibility.
+// Internal aliases for backwards compatability.
 native float __FLOAT_MUL__(float a, float b) = FloatMul;
 native float __FLOAT_DIV__(float a, float b) = FloatDiv;
 native float __FLOAT_ADD__(float a, float b) = FloatAdd;

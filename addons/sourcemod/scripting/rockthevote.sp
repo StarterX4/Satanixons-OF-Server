@@ -213,8 +213,6 @@ void AttemptRTV(int client)
 public Action Timer_DelayRTV(Handle timer)
 {
 	g_RTVAllowed = true;
-
-	return Plugin_Continue;
 }
 
 void StartRTV()
