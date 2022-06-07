@@ -1,0 +1,6 @@
+Guide to set up the server correctly: https://steamcommunity.com/sharedfiles/filedetails/?id=2090433448
+There's another, outdated guide but still contains few useful info (like gameinfo.txt): https://docs.google.com/document/d/1wIE9iuo0pEke8BZxSQmxd2xYk27UV4mAlWcJYQmJwVU/edit#
+
+`./murse` just prints a usage help page.
+Murse example command:
+`steam@ip:~$ ./murse upgrade sdk2013/open_fortress/ -u https://toast-eu-1.openfortress.fun/toast/`
