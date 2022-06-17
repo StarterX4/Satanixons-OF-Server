@@ -1,0 +1,9 @@
+L 06/15/2022 - 17:52:42: SourceMod log file session started (file "/home/steam/sdk2013/open_fortress/addons/sourcemod/logs/L20220615.log") (Version "1.10.0.6488")
+L 06/15/2022 - 17:52:42: -------- Mapchange to dm_2fort --------
+L 06/15/2022 - 17:53:08: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_unlag_fixstuck") (value "1")
+L 06/15/2022 - 17:53:08: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxunlag") (value "1")
+L 06/15/2022 - 17:53:08: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_forcepreload") (value "1")
+L 06/15/2022 - 17:53:08: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_client_predict") (value "1")
+L 06/15/2022 - 17:53:08: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_client_cmdrate_difference") (value "0")
+L 06/15/2022 - 17:53:08: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_max_queries_window") (value "10")
+L 06/15/2022 - 17:53:21: Log file closed.

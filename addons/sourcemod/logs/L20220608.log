@@ -1,0 +1,52 @@
+L 06/08/2022 - 15:39:52: SourceMod log file session started (file "/home/steam/sdk2013/open_fortress/addons/sourcemod/logs/L20220608.log") (Version "1.10.0.6488")
+L 06/08/2022 - 15:39:52: [SM] Changed map to "dm_bloodrun_dev"
+L 06/08/2022 - 15:40:05: -------- Mapchange to dm_bloodrun_dev --------
+L 06/08/2022 - 15:42:32: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_unlag_fixstuck") (value "1")
+L 06/08/2022 - 15:42:32: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxunlag") (value "1")
+L 06/08/2022 - 15:42:32: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_forcepreload") (value "1")
+L 06/08/2022 - 15:42:32: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_client_predict") (value "1")
+L 06/08/2022 - 15:42:32: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_client_cmdrate_difference") (value "0")
+L 06/08/2022 - 15:42:32: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_max_queries_window") (value "10")
+L 06/08/2022 - 17:15:49: [playercommands.smx] "SATANİXON deepgoretube.site<14><[U:1:104738040]><>" slapped "SATANİXON deepgoretube.site<14><[U:1:104738040]><>" (damage "0")
+L 06/08/2022 - 17:15:49: [playercommands.smx] "SATANİXON deepgoretube.site<14><[U:1:104738040]><>" slapped "SATANİXON deepgoretube.site<14><[U:1:104738040]><>" (damage "0")
+L 06/08/2022 - 17:15:50: [playercommands.smx] "SATANİXON deepgoretube.site<14><[U:1:104738040]><>" slapped "SATANİXON deepgoretube.site<14><[U:1:104738040]><>" (damage "0")
+L 06/08/2022 - 17:15:50: [playercommands.smx] "SATANİXON deepgoretube.site<14><[U:1:104738040]><>" slapped "SATANİXON deepgoretube.site<14><[U:1:104738040]><>" (damage "0")
+L 06/08/2022 - 17:15:50: [playercommands.smx] "SATANİXON deepgoretube.site<14><[U:1:104738040]><>" slapped "SATANİXON deepgoretube.site<14><[U:1:104738040]><>" (damage "0")
+L 06/08/2022 - 17:15:50: [playercommands.smx] "SATANİXON deepgoretube.site<14><[U:1:104738040]><>" slapped "SATANİXON deepgoretube.site<14><[U:1:104738040]><>" (damage "0")
+L 06/08/2022 - 17:15:50: [playercommands.smx] "SATANİXON deepgoretube.site<14><[U:1:104738040]><>" slapped "SATANİXON deepgoretube.site<14><[U:1:104738040]><>" (damage "0")
+L 06/08/2022 - 17:15:50: [playercommands.smx] "SATANİXON deepgoretube.site<14><[U:1:104738040]><>" slapped "SATANİXON deepgoretube.site<14><[U:1:104738040]><>" (damage "0")
+L 06/08/2022 - 17:15:51: [playercommands.smx] "SATANİXON deepgoretube.site<14><[U:1:104738040]><>" slapped "SATANİXON deepgoretube.site<14><[U:1:104738040]><>" (damage "0")
+L 06/08/2022 - 17:15:51: [playercommands.smx] "SATANİXON deepgoretube.site<14><[U:1:104738040]><>" slapped "SATANİXON deepgoretube.site<14><[U:1:104738040]><>" (damage "0")
+L 06/08/2022 - 17:15:51: [playercommands.smx] "SATANİXON deepgoretube.site<14><[U:1:104738040]><>" slapped "SATANİXON deepgoretube.site<14><[U:1:104738040]><>" (damage "0")
+L 06/08/2022 - 17:15:51: [playercommands.smx] "SATANİXON deepgoretube.site<14><[U:1:104738040]><>" slapped "SATANİXON deepgoretube.site<14><[U:1:104738040]><>" (damage "0")
+L 06/08/2022 - 17:15:52: [playercommands.smx] "SATANİXON deepgoretube.site<14><[U:1:104738040]><>" slapped "SATANİXON deepgoretube.site<14><[U:1:104738040]><>" (damage "0")
+L 06/08/2022 - 17:15:54: [playercommands.smx] "SATANİXON deepgoretube.site<14><[U:1:104738040]><>" slapped "SATANİXON deepgoretube.site<14><[U:1:104738040]><>" (damage "0")
+L 06/08/2022 - 17:15:54: [playercommands.smx] "SATANİXON deepgoretube.site<14><[U:1:104738040]><>" slapped "SATANİXON deepgoretube.site<14><[U:1:104738040]><>" (damage "0")
+L 06/08/2022 - 17:15:55: [playercommands.smx] "SATANİXON deepgoretube.site<14><[U:1:104738040]><>" slapped "SATANİXON deepgoretube.site<14><[U:1:104738040]><>" (damage "0")
+L 06/08/2022 - 17:15:55: [playercommands.smx] "SATANİXON deepgoretube.site<14><[U:1:104738040]><>" slapped "SATANİXON deepgoretube.site<14><[U:1:104738040]><>" (damage "0")
+L 06/08/2022 - 17:15:55: [playercommands.smx] "SATANİXON deepgoretube.site<14><[U:1:104738040]><>" slapped "SATANİXON deepgoretube.site<14><[U:1:104738040]><>" (damage "0")
+L 06/08/2022 - 17:15:55: [playercommands.smx] "SATANİXON deepgoretube.site<14><[U:1:104738040]><>" slapped "SATANİXON deepgoretube.site<14><[U:1:104738040]><>" (damage "0")
+L 06/08/2022 - 17:15:55: [playercommands.smx] "SATANİXON deepgoretube.site<14><[U:1:104738040]><>" slapped "SATANİXON deepgoretube.site<14><[U:1:104738040]><>" (damage "0")
+L 06/08/2022 - 17:15:56: [playercommands.smx] "SATANİXON deepgoretube.site<14><[U:1:104738040]><>" slapped "SATANİXON deepgoretube.site<14><[U:1:104738040]><>" (damage "0")
+L 06/08/2022 - 17:15:56: [playercommands.smx] "SATANİXON deepgoretube.site<14><[U:1:104738040]><>" slapped "SATANİXON deepgoretube.site<14><[U:1:104738040]><>" (damage "0")
+L 06/08/2022 - 17:34:01: [SM] Changed map to "dm_cargo_dev"
+L 06/08/2022 - 19:03:22: SourceMod log file session started (file "/home/steam/sdk2013/open_fortress/addons/sourcemod/logs/L20220608.log") (Version "1.10.0.6488")
+L 06/08/2022 - 19:03:22: [SM] Changed map to "dm_bloodrun_dev"
+L 06/08/2022 - 19:03:33: -------- Mapchange to dm_bloodrun_dev --------
+L 06/08/2022 - 19:05:16: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_unlag_fixstuck") (value "1")
+L 06/08/2022 - 19:05:16: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxunlag") (value "1")
+L 06/08/2022 - 19:05:16: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_forcepreload") (value "1")
+L 06/08/2022 - 19:05:16: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_client_predict") (value "1")
+L 06/08/2022 - 19:05:16: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_client_cmdrate_difference") (value "0")
+L 06/08/2022 - 19:05:16: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_max_queries_window") (value "10")
+L 06/08/2022 - 19:12:25: [basecommands.smx] "SATANİXON deepgoretube.site<11><[U:1:104738040]><>" changed cvar (cvar "sv_password") (value "2137")
+L 06/08/2022 - 19:13:19: [basecommands.smx] "SATANİXON deepgoretube.site<11><[U:1:104738040]><>" changed map to "dm_harvest"
+L 06/08/2022 - 19:13:22: [SM] Changed map to "dm_harvest"
+L 06/08/2022 - 19:13:31: -------- Mapchange to dm_harvest --------
+L 06/08/2022 - 19:16:58: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_unlag_fixstuck") (value "1")
+L 06/08/2022 - 19:16:58: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxunlag") (value "1")
+L 06/08/2022 - 19:16:58: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_forcepreload") (value "1")
+L 06/08/2022 - 19:16:58: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_client_predict") (value "1")
+L 06/08/2022 - 19:16:58: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_client_cmdrate_difference") (value "0")
+L 06/08/2022 - 19:16:58: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_max_queries_window") (value "10")
+L 06/08/2022 - 19:29:58: Log file closed.

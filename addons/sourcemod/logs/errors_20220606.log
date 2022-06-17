@@ -1,0 +1,38 @@
+L 06/06/2022 - 08:57:02: SourceMod error session started
+L 06/06/2022 - 08:57:02: Info (map "dm_wiseau") (file "/home/steam/sdk2013/open_fortress/addons/sourcemod/logs/errors_20220606.log")
+L 06/06/2022 - 08:57:02: [SM] Unable to load extension "accelerator.ext": /home/steam/sdk2013/open_fortress/addons/sourcemod/data/dumps didn't exist and we couldn't create it :(
+L 06/06/2022 - 08:57:05: [SM] Fatal error encountered parsing translation file "nativevotes.phrases.txt"
+L 06/06/2022 - 08:57:05: [SM] Error (line 0, column 0): Stream failed to open
+L 06/06/2022 - 09:07:48: SourceMod error session started
+L 06/06/2022 - 09:07:48: Info (map "dm_wiseau") (file "/home/steam/sdk2013/open_fortress/addons/sourcemod/logs/errors_20220606.log")
+L 06/06/2022 - 09:07:48: [SM] Error parsing gameconfig file "/home/steam/sdk2013/open_fortress/addons/sourcemod/gamedata/accelerator.games.txt":
+L 06/06/2022 - 09:07:48: [SM] Error 1 on line 0, col 0: Stream failed to open
+L 06/06/2022 - 09:07:51: [SM] Fatal error encountered parsing translation file "nativevotes.phrases.txt"
+L 06/06/2022 - 09:07:51: [SM] Error (line 0, column 0): Stream failed to open
+L 06/06/2022 - 09:12:33: SourceMod error session started
+L 06/06/2022 - 09:12:33: Info (map "dm_wiseau") (file "/home/steam/sdk2013/open_fortress/addons/sourcemod/logs/errors_20220606.log")
+L 06/06/2022 - 09:12:33: [SM] Error parsing gameconfig file "/home/steam/sdk2013/open_fortress/addons/sourcemod/gamedata/accelerator.games.txt":
+L 06/06/2022 - 09:12:33: [SM] Error 1 on line 0, col 0: Stream failed to open
+L 06/06/2022 - 09:12:36: [SM] Fatal error encountered parsing translation file "nativevotes.phrases.txt"
+L 06/06/2022 - 09:12:36: [SM] Error (line 0, column 0): Stream failed to open
+L 06/06/2022 - 09:19:24: SourceMod error session started
+L 06/06/2022 - 09:19:24: Info (map "dm_wiseau") (file "/home/steam/sdk2013/open_fortress/addons/sourcemod/logs/errors_20220606.log")
+L 06/06/2022 - 09:19:24: [CRASH] Accelerator uploaded crash dump: Crash ID: BIDC-7EQQ-TBYT
+L 06/06/2022 - 09:24:34: SourceMod error session started
+L 06/06/2022 - 09:24:34: Info (map "dm_wiseau") (file "/home/steam/sdk2013/open_fortress/addons/sourcemod/logs/errors_20220606.log")
+L 06/06/2022 - 09:24:34: [CRASH] Accelerator uploaded crash dump: Crash ID: JNCB-E3PD-I3KH
+L 06/06/2022 - 10:10:13: SourceMod error session started
+L 06/06/2022 - 10:10:13: Info (map "dm_wiseau") (file "/home/steam/sdk2013/open_fortress/addons/sourcemod/logs/errors_20220606.log")
+L 06/06/2022 - 10:10:13: [SM] Unable to load extension "topmenus.ext": Could not find interface: IMenuManager
+L 06/06/2022 - 10:10:13: [SM] Unable to load extension "sdktools.ext": Could not find interface: IMenuManager
+L 06/06/2022 - 10:10:13: [SM] Unable to load extension "clientprefs.ext": Could not find interface: IMenuManager
+L 06/06/2022 - 10:10:13: [SM] Unable to load extension "sdkhooks.ext": Could not find interface: IMenuManager
+L 06/06/2022 - 10:10:13: [SM] Unable to load plugin "adminmenu.smx": Required extension "TopMenus" file("topmenus.ext") not running
+L 06/06/2022 - 10:10:13: [SM] Unable to load plugin "basecomm.smx": Required extension "SDKTools" file("sdktools.ext") not running
+L 06/06/2022 - 10:10:13: [SM] Unable to load plugin "clientprefs.smx": Required extension "Client Preferences" file("clientprefs.ext") not running
+L 06/06/2022 - 10:10:13: [SM] Unable to load plugin "funcommands.smx": Required extension "SDKTools" file("sdktools.ext") not running
+L 06/06/2022 - 10:10:13: [SM] Unable to load plugin "funvotes.smx": Required extension "SDKTools" file("sdktools.ext") not running
+L 06/06/2022 - 10:10:14: [SM] Unable to load plugin "playercommands.smx": Required extension "SDKTools" file("sdktools.ext") not running
+L 06/06/2022 - 10:10:14: [SM] Unable to load plugin "spray_exploit_fixer.smx": Required extension "SDKTools" file("sdktools.ext") not running
+L 06/06/2022 - 10:10:14: [SM] Unable to load plugin "vphysics_fix.smx": Required extension "SDKHooks" file("sdkhooks.ext") not running
+L 06/06/2022 - 10:10:14: [SM] Unable to load plugin "nativevotes.smx": Required extension "SDKTools" file("sdktools.ext") not running

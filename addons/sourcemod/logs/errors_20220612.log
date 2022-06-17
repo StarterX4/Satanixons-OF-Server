@@ -1,0 +1,15 @@
+L 06/12/2022 - 20:22:59: SourceMod error session started
+L 06/12/2022 - 20:22:59: Info (map "dm_wiseau") (file "/home/steam/sdk2013/open_fortress/addons/sourcemod/logs/errors_20220612.log")
+L 06/12/2022 - 20:22:59: [SM] Unable to load plugin "nominations.smx": Could not find required plugin "mapchooser"
+L 06/12/2022 - 20:22:59: [SM] Unable to load plugin "rockthevote.smx": Could not find required plugin "mapchooser"
+L 06/12/2022 - 20:23:50: Error log file session closed.
+L 06/12/2022 - 20:34:12: SourceMod error session started
+L 06/12/2022 - 20:34:12: Info (map "dm_wiseau") (file "/home/steam/sdk2013/open_fortress/addons/sourcemod/logs/errors_20220612.log")
+L 06/12/2022 - 20:34:12: [SM] Unable to load plugin "nominations.smx": Could not find required plugin "mapchooser"
+L 06/12/2022 - 20:34:12: [SM] Unable to load plugin "rockthevote.smx": Could not find required plugin "mapchooser"
+L 06/12/2022 - 20:34:56: Error log file session closed.
+L 06/12/2022 - 21:48:10: SourceMod error session started
+L 06/12/2022 - 21:48:10: Info (map "dm_wiseau") (file "/home/steam/sdk2013/open_fortress/addons/sourcemod/logs/errors_20220612.log")
+L 06/12/2022 - 21:48:10: [SM] Unable to load plugin "nominations.smx": Could not find required plugin "mapchooser"
+L 06/12/2022 - 21:48:10: [SM] Unable to load plugin "rockthevote.smx": Could not find required plugin "mapchooser"
+L 06/12/2022 - 21:49:25: Error log file session closed.

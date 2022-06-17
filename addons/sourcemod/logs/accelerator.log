@@ -1,0 +1,40 @@
+Got a presubmit token from server: 84232dfb7af56870bffb8b81015db2f0
+Classified module linux-gate.so as System
+Submitting symbols for /home/steam/sdk2013/open_fortress/addons/sourcemod/data/dumps/linux-gate.so
+Symbol upload complete: Stored symbols for linux-gate.so/23B3136999FF5267EC934E24EF2F38330/Linux/x86
+Uploaded crash dump: Crash ID: BIDC-7EQQ-TBYT
+Got a presubmit token from server: 33996f9bb72cd953984e661463cecd34
+Uploaded crash dump: Crash ID: JNCB-E3PD-I3KH
+Got a presubmit token from server: 84232dfb7af56870bffb8b81015db2f0
+Classified module linux-gate.so as System
+Submitting symbols for /home/steam/sdk2013/open_fortress/addons/sourcemod/data/dumps/linux-gate.so
+Symbol upload complete: Stored symbols for linux-gate.so/471D3832C281A32F3309B680C8DBE5530/Linux/x86
+Uploaded crash dump: Crash ID: FQ3F-C2EE-BDRI
+Got a presubmit token from server: ee2f4c967b807e658bfde59e3c0dddb3
+Classified module /home/steam/sdk2013/open_fortress/addons/sourcemod/extensions/cleaner.ext.2.tf2.so as Extension
+Submitting symbols for /home/steam/sdk2013/open_fortress/addons/sourcemod/extensions/cleaner.ext.2.tf2.so
+Failed to process symbol file
+Classified module /home/steam/sdk2013/open_fortress/addons/sourcemod/extensions/cleaner.ext.2.tf2.so as Extension
+Submitting symbols for /home/steam/sdk2013/open_fortress/addons/sourcemod/extensions/cleaner.ext.2.tf2.so
+Failed to process symbol file
+Classified module /usr/lib/i386-linux-gnu/libjemalloc.so.2 as System
+Submitting symbols for /usr/lib/i386-linux-gnu/libjemalloc.so.2
+Symbol upload complete: Stored symbols for libjemalloc.so.2/73345FA962ECEDC3809D16335A329D590/Linux/x86
+Classified module linux-gate.so as System
+Submitting symbols for /home/steam/sdk2013/open_fortress/addons/sourcemod/data/dumps/linux-gate.so
+Symbol upload complete: Stored symbols for linux-gate.so/76FDB2FCD32318EB9D67B798C3FA60BC0/Linux/x86
+Uploaded crash dump: Crash ID: WWXY-3FGL-T44J
+Got a presubmit token from server: 64524009d80b0eb749d8cd0e03eef8da
+Classified module /home/steam/sdk2013/open_fortress/addons/sourcemod/extensions/cleaner.ext.2.tf2.so as Extension
+Submitting symbols for /home/steam/sdk2013/open_fortress/addons/sourcemod/extensions/cleaner.ext.2.tf2.so
+Failed to process symbol file
+Classified module /home/steam/sdk2013/open_fortress/addons/sourcemod/extensions/cleaner.ext.2.tf2.so as Extension
+Submitting symbols for /home/steam/sdk2013/open_fortress/addons/sourcemod/extensions/cleaner.ext.2.tf2.so
+Failed to process symbol file
+Classified module /usr/lib/i386-linux-gnu/libjemalloc.so.2 as System
+Submitting symbols for /usr/lib/i386-linux-gnu/libjemalloc.so.2
+Symbol upload complete: Stored symbols for libjemalloc.so.2/73345FA962ECEDC3809D16335A329D590/Linux/x86
+Classified module linux-gate.so as System
+Submitting symbols for /home/steam/sdk2013/open_fortress/addons/sourcemod/data/dumps/linux-gate.so
+Symbol upload complete: Stored symbols for linux-gate.so/76FDB2FCD32318EB9D67B798C3FA60BC0/Linux/x86
+Uploaded crash dump: Crash ID: HT7M-CZBC-72TB

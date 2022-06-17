@@ -1,0 +1,18 @@
+L 06/17/2022 - 07:48:46: SourceMod log file session started (file "/home/steam/sdk2013/open_fortress/addons/sourcemod/logs/L20220617.log") (Version "1.10.0.6488")
+L 06/17/2022 - 07:48:46: -------- Mapchange to dm_2fort --------
+L 06/17/2022 - 07:49:12: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_unlag_fixstuck") (value "1")
+L 06/17/2022 - 07:49:12: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxunlag") (value "1")
+L 06/17/2022 - 07:49:12: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_forcepreload") (value "1")
+L 06/17/2022 - 07:49:12: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_client_predict") (value "1")
+L 06/17/2022 - 07:49:12: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_client_cmdrate_difference") (value "0")
+L 06/17/2022 - 07:49:12: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_max_queries_window") (value "10")
+L 06/17/2022 - 08:46:06: SourceMod log file session started (file "/home/steam/sdk2013/open_fortress/addons/sourcemod/logs/L20220617.log") (Version "1.10.0.6488")
+L 06/17/2022 - 08:46:06: -------- Mapchange to dm_2fort --------
+L 06/17/2022 - 09:48:06: SourceMod log file session started (file "/home/steam/sdk2013/open_fortress/addons/sourcemod/logs/L20220617.log") (Version "1.11.0.6888")
+L 06/17/2022 - 09:48:06: -------- Mapchange to dm_2fort --------
+L 06/17/2022 - 09:48:33: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_unlag_fixstuck") (value "1")
+L 06/17/2022 - 09:48:33: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxunlag") (value "1")
+L 06/17/2022 - 09:48:33: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_forcepreload") (value "1")
+L 06/17/2022 - 09:48:33: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_client_predict") (value "1")
+L 06/17/2022 - 09:48:33: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_client_cmdrate_difference") (value "0")
+L 06/17/2022 - 09:48:33: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_max_queries_window") (value "10")

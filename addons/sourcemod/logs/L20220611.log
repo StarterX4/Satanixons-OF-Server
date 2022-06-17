@@ -1,0 +1,20 @@
+L 06/11/2022 - 21:38:22: SourceMod log file session started (file "/home/steam/sdk2013/open_fortress/addons/sourcemod/logs/L20220611.log") (Version "1.10.0.6488")
+L 06/11/2022 - 21:38:22: -------- Mapchange to dm_2fort --------
+L 06/11/2022 - 21:41:06: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_unlag_fixstuck") (value "1")
+L 06/11/2022 - 21:41:06: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxunlag") (value "1")
+L 06/11/2022 - 21:41:06: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_forcepreload") (value "1")
+L 06/11/2022 - 21:41:06: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_client_predict") (value "1")
+L 06/11/2022 - 21:41:06: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_client_cmdrate_difference") (value "0")
+L 06/11/2022 - 21:41:06: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_max_queries_window") (value "10")
+L 06/11/2022 - 21:43:15: Log file closed.
+L 06/11/2022 - 21:55:58: SourceMod log file session started (file "/home/steam/sdk2013/open_fortress/addons/sourcemod/logs/L20220611.log") (Version "1.10.0.6488")
+L 06/11/2022 - 21:55:58: [basecommands.smx] "SATANİXON deepgoretube.site<3><[U:1:104738040]><>" changed map to "dm_rig"
+L 06/11/2022 - 21:56:01: [SM] Changed map to "dm_rig"
+L 06/11/2022 - 21:56:25: -------- Mapchange to dm_rig --------
+L 06/11/2022 - 21:58:49: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_unlag_fixstuck") (value "1")
+L 06/11/2022 - 21:58:49: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxunlag") (value "1")
+L 06/11/2022 - 21:58:49: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_forcepreload") (value "0")
+L 06/11/2022 - 21:58:49: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_client_predict") (value "1")
+L 06/11/2022 - 21:58:49: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_client_cmdrate_difference") (value "0")
+L 06/11/2022 - 21:58:49: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_max_queries_window") (value "10")
+L 06/11/2022 - 22:31:22: Log file closed.

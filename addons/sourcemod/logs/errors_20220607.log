@@ -1,0 +1,15 @@
+L 06/07/2022 - 09:30:36: SourceMod error session started
+L 06/07/2022 - 09:30:36: Info (map "dm_wiseau") (file "/home/steam/sdk2013/open_fortress/addons/sourcemod/logs/errors_20220607.log")
+L 06/07/2022 - 09:30:36: [SM] Unable to load extension "topmenus.ext": Could not find interface: IMenuManager
+L 06/07/2022 - 09:30:36: [SM] Unable to load extension "sdktools.ext": Could not find interface: IMenuManager
+L 06/07/2022 - 09:30:36: [SM] Unable to load extension "clientprefs.ext": Could not find interface: IMenuManager
+L 06/07/2022 - 09:30:36: [SM] Unable to load extension "sdkhooks.ext": Could not find interface: IMenuManager
+L 06/07/2022 - 09:30:36: [SM] Unable to load plugin "adminmenu.smx": Required extension "TopMenus" file("topmenus.ext") not running
+L 06/07/2022 - 09:30:36: [SM] Unable to load plugin "basecomm.smx": Required extension "SDKTools" file("sdktools.ext") not running
+L 06/07/2022 - 09:30:37: [SM] Unable to load plugin "clientprefs.smx": Required extension "Client Preferences" file("clientprefs.ext") not running
+L 06/07/2022 - 09:30:37: [SM] Unable to load plugin "funcommands.smx": Required extension "SDKTools" file("sdktools.ext") not running
+L 06/07/2022 - 09:30:37: [SM] Unable to load plugin "funvotes.smx": Required extension "SDKTools" file("sdktools.ext") not running
+L 06/07/2022 - 09:30:37: [SM] Unable to load plugin "playercommands.smx": Required extension "SDKTools" file("sdktools.ext") not running
+L 06/07/2022 - 09:30:37: [SM] Unable to load plugin "spray_exploit_fixer.smx": Required extension "SDKTools" file("sdktools.ext") not running
+L 06/07/2022 - 09:30:37: [SM] Unable to load plugin "vphysics_fix.smx": Required extension "SDKHooks" file("sdkhooks.ext") not running
+L 06/07/2022 - 09:30:37: [SM] Unable to load plugin "nativevotes.smx": Required extension "SDKTools" file("sdktools.ext") not running

@@ -1,18 +1,13 @@
 "Phrases"
 {
-	"Blind player"
-	{
-		"vi"		"Làm mù người chơi"
-	}
-
-	"Blind amount"
-	{
-		"vi"		"Mù đến mức nào?"
-	}
-
 	"Burn player"
 	{
 		"vi"		"Thiêu đốt người chơi"
+	}
+
+	"FireBomb player"
+	{
+		"vi"		"Dùng bom lửa lên người chơi"
 	}
 
 	"Freeze player"
@@ -20,49 +15,49 @@
 		"vi"		"Đóng băng người chơi"
 	}
 
-	"Froze target"
+	"FreezeBomb player"
 	{
-		"vi"		"Đã đóng băng {1}."
+		"vi"		"Dùng bom đóng băng lên người chơi"
 	}
 
-	"Fully blind"
+	"TimeBomb player"
 	{
-		"vi"		"Hoàn toàn mù"
+		"vi"		"Đặt bom đếm giờ vào người chơi"
 	}
 
-	"Gravity High"
+	"Beacon player"
 	{
-		"vi"		"Trọng lực cao"
+		"vi"		"Đặt đèn hiệu lên người chơi"
 	}
 
-	"Gravity Low"
+	"NoClip player"
 	{
-		"vi"		"Trọng lực thấp"
+		"vi"		"NoClip người chơi"
 	}
 
-	"Gravity Normal"
+	"Blind player"
 	{
-		"vi"		"Trọng lực bình thường"
+		"vi"		"Làm mù người chơi"
 	}
 
-	"Gravity Very High"
+	"Drug player"
 	{
-		"vi"		"Trọng lực rất cao"
-	}
-
-	"Gravity Very Low"
-	{
-		"vi"		"Trọng lực rất thấp"
-	}
-
-	"Gravity amount"
-	{
-		"vi"		"Mức độ trọng lực?"
+		"vi"		"Kích độc người chơi"
 	}
 
 	"Gravity player"
 	{
 		"vi"		"Trọng lực lên người chơi"
+	}
+
+	"Blind amount"
+	{
+		"vi"		"Mù đến mức nào?"
+	}
+
+	"Fully blind"
+	{
+		"vi"		"Hoàn toàn mù"
 	}
 
 	"Half blind"
@@ -75,9 +70,74 @@
 		"vi"		"Không mù"
 	}
 
-	"NoClip player"
+	"Gravity amount"
 	{
-		"vi"		"NoClip người chơi"
+		"vi"		"Mức độ trọng lực?"
+	}
+
+	"Gravity Very High"
+	{
+		"vi"		"Trọng lực rất cao"
+	}
+
+	"Gravity High"
+	{
+		"vi"		"Trọng lực cao"
+	}
+
+	"Gravity Normal"
+	{
+		"vi"		"Trọng lực bình thường"
+	}
+
+	"Gravity Low"
+	{
+		"vi"		"Trọng lực thấp"
+	}
+
+	"Gravity Very Low"
+	{
+		"vi"		"Trọng lực rất thấp"
+	}
+
+	"Set target on fire"
+	{
+		"vi"		"Đã đốt {1}."
+	}
+
+	"Toggled FireBomb on target"
+	{
+		"vi"		"Đã bật/tắt bom lửa lên {1}."
+	}
+
+	"Froze target"
+	{
+		"vi"		"Đã đóng băng {1}."
+	}
+
+	"Toggled FreezeBomb on target"
+	{
+		"vi"		"Đã bật/tắt bom đóng băng lên {1}."
+	}
+
+	"Toggled beacon on target"
+	{
+		"vi"		"Đã bật/tắt bom lửa lên {1}."
+	}
+
+	"Toggled TimeBomb on target"
+	{
+		"vi"		"Đã bật/tắt đèn hiệu lên {1}."
+	}
+
+	"Toggled noclip on target"
+	{
+		"vi"		"Đã bật tắt noclip lên {1}."
+	}
+
+	"Toggled drug on target"
+	{
+		"vi"		"Đã bật/tắt kích độc lên {1}."
 	}
 
 	"Set blind on target"
@@ -90,19 +150,9 @@
 		"vi"		"Đã thay đổi trọng lực của {1}."
 	}
 
-	"Set target on fire"
-	{
-		"vi"		"Đã đốt {1}."
-	}
-
 	"Till Explodes"
 	{
 		"vi"		"Còn {2} nữa thì {1} phát nổ."
-	}
-
-	"TimeBomb player"
-	{
-		"vi"		"Đặt bom đếm giờ vào người chơi"
 	}
 
 	"Unfrozen"

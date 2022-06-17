@@ -6,9 +6,9 @@
 		{
 			"ForceRespawn"
 			{
-				"windows"	"327"
-				"linux"		"328"
-				"mac"		"328"
+				"windows"	"354"
+				"linux"		"355"
+				"mac"		"355"
 			}
 			"CanGoToStalemate"
 			{
@@ -47,8 +47,8 @@
 			{
 				"library"	"server"
 				"windows"	"\x55\x8B\xEC\x56\x8B\xF1\x8B\x8E\x2A\x2A\x00\x00\x8B\x01\x8B\x80\x2A\x2A\x00\x00"
-				"linux"		"@_ZN15CTFPlayerShared4BurnEP9CTFPlayerf"
-				"mac"		"@_ZN15CTFPlayerShared4BurnEP9CTFPlayerf"
+				"linux"		"@_ZN15CTFPlayerShared12OnAddBurningEv"
+				"mac"		"@_ZN15CTFPlayerShared12OnAddBurningEv"
 			}
 			"RemoveDisguise"
 			{
@@ -61,8 +61,8 @@
 			{
 				"library"	"server"
 				"windows"	"\x55\x8B\xEC\x53\x56\x8B\xF1\x8B\x8E\x2A\x2A\x00\x00\xE8"
-				"linux"		"@_ZN15CTFPlayerShared8DisguiseEii"
-				"mac"		"@_ZN15CTFPlayerShared8DisguiseEii"
+				"linux"		"@_ZN15CTFPlayerShared14OnAddDisguisedEv"
+				"mac"		"@_ZN15CTFPlayerShared14OnAddDisguisedEv"
 			}
 			"Regenerate"
 			{
@@ -74,7 +74,6 @@
 			"AddCondition"
 			{
 				"library"	"server"
-				// AddCond and RemoveCond are made almost the exact same way so oh well. Probably SHOULDN'T break that often
 				"windows" 	"\x55\x8B\xEC\x53\x56\x8B\x75\x08\x8B\xD9\x89\x75\x08\x57\x81\xFE\x80\x00\x00\x00\x7D\x2A\x83\xFE\x60\x7D\x2A\x83\xFE\x40\x7D\x2A\x83\xFE\x20\x7D\x2A\x8D\x7B\x18\x8B\x47\xE8\x8D\x4F\xE8\x57\xFF\x10\xEB\x2A\x8D\x7B\x1C\x8B\x47\xE4\x8D\x4F\xE4\x57\xFF\x10\x8D\x46\xE0\xEB\x2A\x8D\x7B\x20\x8B\x47\xE0\x8D\x4F\xE0\x57\xFF\x10\x8D\x46\xC0\xEB\x2A\x8D\x7B\x24\x8B\x47\xDC\x8D\x4F\xDC\x57\xFF\x10\x8D\x46\xA0\xEB\x2A\x8D\x7B\x28\x8B\x47\xD8\x8D\x4F\xD8\x57\xFF\x10\x8D\x46\x80\x89\x45\x08\x8B\x4D\x08\xB8\x01\x00\x00\x00\xD3\xE0\x8D\x4D\x0C"
 				"linux"		"@_ZN15CTFPlayerShared7AddCondEif"
 				"mac"		"@_ZN15CTFPlayerShared7AddCondEif"
@@ -86,14 +85,6 @@
 				"linux"		"@_ZN15CTFPlayerShared10RemoveCondEi"
 				"mac"		"@_ZN15CTFPlayerShared10RemoveCondEi"
 			}
-			// Not in OpenFortress
-//			"SetPowerplayEnabled"
-//			{
-//				"library"	"server"
-//				"windows"	"\x55\x8B\xEC\x80\x7D\x08\x00\x56\x57\x8B\xF9"
-//				"linux"		"@_ZN9CTFPlayer19SetPowerplayEnabledEb"
-//				"mac"		"@_ZN9CTFPlayer19SetPowerplayEnabledEb"
-//			}
 			"SetInWaitingForPlayers"
 			{
 				"library"	"server"
