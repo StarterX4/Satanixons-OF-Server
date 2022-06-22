@@ -34,7 +34,7 @@ SVNUM=2
 IP=10.0.0.253
 PORT=27018
 NAME=OF_Server$SVNUM
-PARAMS="-console -game open_fortress -ip $IP -port $PORT +sv_clockcorrection_msecs 25 -timeout 10 -tickrate 108 +sv_lan 0 +sv_pure -1 -tvdisable -nohltv +map sniper_orange_towers +mapcyclefile none -maxplayers 32 +servercfgfile server$SVNUM.cfg"
+PARAMS="-console -game open_fortress -ip $IP -port $PORT +sv_clockcorrection_msecs 25 -timeout 10 -tickrate 108 +sv_lan 0 +sv_pure -1 -tvdisable -nohltv +map sniper_orange_towers +mapcyclefile mapcycle_sniper_orange.txt -maxplayers 32 +servercfgfile server$SVNUM.cfg"
 DESC="OF Dedicated Server #$SVNUM on port $PORT"
 
 
