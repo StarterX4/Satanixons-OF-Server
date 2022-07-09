@@ -1,0 +1,10 @@
+[Service]
+Type=forking
+Restart=no
+TimeoutSec=5min
+IgnoreSIGPIPE=no
+KillMode=process
+GuessMainPID=yes
+RemainAfterExit=no
+ExecStart=/home/steam/.config/init.d/of-srcds3 start
+ExecStop=/home/steam/.config/init.d/of-srcds3 stop 
