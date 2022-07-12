@@ -1,0 +1,95 @@
+"Phrases"
+{
+
+	/*
+		About colour:
+		
+		The colour of chat is set by inserting an ASCII control character and a six or eight character
+		hexadecimal value before the chat. When using eight characters, the last two are for
+		alpha transparency. You can type the control characters in Windows by holding Alt and pressing
+		specific numerical key pad keys. https://www.ascii-code.com/
+		
+			Alt + 01				Used to return to the default colour.
+			Alt + 07				Used with a six character hex value.
+			Alt + 08				Used with an eight character hex value.
+			
+		An example phrase:
+		
+			"Your name is 87CEEB{1} and you have 87CEEB{1} points"
+		
+		To use colour, the line must be prefixed with . The prefix phrase will handle this for all other lines.
+	*/
+
+
+	/**
+	 * Prefixes
+	 * -----------------------------------------------------------------------------------------------------
+	 */
+	
+	"prefix_of"
+	{
+		"en"			"B071FFFF "
+	}
+
+	
+	/**
+	 * Open Fortress Enhancements
+	 * -----------------------------------------------------------------------------------------------------
+	 */ 
+	
+	"ofe_current_map"
+	{
+		"#format"		"{1:s}"
+		"en"			"The current map is B071FFFF{1}"
+	}
+	
+	"ofe_rounds_played"
+	{
+		"#format"		"{1:d}{2:d}"
+		"en"			"{1}/{2} rounds played"
+	}
+	
+	"ofe_welcome_fraglimit"
+	{
+		"#format"		"{1:s}{2:d}{3:s}"
+		"en"			"Playing on B071FFFF{1} to B071FFFF{2} frags {3}"
+	}
+
+	"ofe_welcome_fraglimit_rounds"
+	{
+		"#format"		"{1:d}"
+		"en"			"and B071FFFF{1} rounds"
+	}
+
+	"ofe_frags_left_three"
+	{
+		"en"			"Three frags left!"
+	}
+	
+	"ofe_frags_left_two"
+	{
+		"en"			"Two frags left!"
+	}
+	
+	"ofe_frags_left_one"
+	{
+		"en"			"One frag left!"
+	}
+	
+	"ofe_frag_limit_reached"
+	{
+		"en"			"Frag limit reached!"
+	}
+	
+	"ofe_deathmatch_winning_player_points"
+	{
+		"#format"		"{1:s}{2:d}"
+		"en"			"{1} won the round with B071FFFF{2} frags!"
+	}
+	
+	"ofe_command_frag_limit"
+	{
+		"#format"		"{1:d}"
+		"en"			"The frag limit is B071FFFF{1}"
+	}
+}
