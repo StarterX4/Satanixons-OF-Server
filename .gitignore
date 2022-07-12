@@ -21,6 +21,13 @@ $RECYCLE.BIN/
 # Linux/Unix temporary files
 *.tmp
 
+# SourceMod spcomp's log
+compile.dat
+
+# VS Code settings
+**/.vscode/settings.json
+**/.vs/slnx.sqlite
+
 # =========================
 # Operating System Files
 # =========================
