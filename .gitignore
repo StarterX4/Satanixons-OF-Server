@@ -32,4 +32,5 @@ compile.dat
 # Operating System Files
 # =========================
 clientprefs-sqlite.sq3
+test.smx
 logs/
