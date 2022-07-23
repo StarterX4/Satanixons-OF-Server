@@ -582,30 +582,31 @@ stock void TF2_SetPlayerClass(int client, TFClassType classType, bool weapons=tr
  * @error				Invalid client index, client not in game or failed to find resource entity.
  * @deprecated          Use GetPlayerResourceEntity and GetEntProp instead.
  */
-#pragma deprecated Use GetPlayerResourceEntity and GetEntProp instead
-stock int TF2_GetPlayerResourceData(int client, TFResourceType type)
-{
-	if (!IsClientConnected(client))
-	{
-		return -1;
-	}
-
-	int offset = FindSendPropInfo("CTFPlayerResource", TFResourceNames[type]);
-
-	if (offset < 1)
-	{
-		return -1;
-	}
-
-	int entity = TF2_GetResourceEntity();
-
-	if (entity == -1)
-	{
-		return -1;
-	}
-
-	return GetEntData(entity, offset + (client*4));
-}
+/////////////////////// Doesn't work with the latest SM 1.11's spcomp /////////////////////////////////////
+// #pragma deprecated Use GetPlayerResourceEntity and GetEntProp instead
+// stock int TF2_GetPlayerResourceData(int client, TFResourceType type)
+// {
+// 	if (!IsClientConnected(client))
+// 	{
+// 		return -1;
+// 	}
+// 
+// 	int offset = FindSendPropInfo("CTFPlayerResource", TFResourceNames[type]);
+// 
+// 	if (offset < 1)
+// 	{
+// 		return -1;
+// 	}
+// 
+// 	int entity = TF2_GetResourceEntity();
+// 
+// 	if (entity == -1)
+// 	{
+// 		return -1;
+// 	}
+// 
+// 	return GetEntData(entity, offset + (client*4));
+// }
 
 /**
  * Sets client data in the resource entity
@@ -619,32 +620,32 @@ stock int TF2_GetPlayerResourceData(int client, TFResourceType type)
  * @error               Invalid client index, client not in game or failed to find resource entity.
  * @deprecated          Use GetPlayerResourceEntity and SetEntProp instead.
  */
-#pragma deprecated Use GetPlayerResourceEntity and SetEntProp instead
-stock bool TF2_SetPlayerResourceData(int client, TFResourceType type, any value)
-{
-	if (!IsClientConnected(client))
-	{
-		return false;
-	}
-
-	int offset = FindSendPropInfo("CTFPlayerResource", TFResourceNames[type]);
-
-	if (offset < 1)
-	{
-		return false;
-	}
-
-	int entity = TF2_GetResourceEntity();
-
-	if (entity == -1)
-	{
-		return false;
-	}
-
-	SetEntData(entity, offset + (client*4), value);
-
-	return true;
-}
+// #pragma deprecated Use GetPlayerResourceEntity and SetEntProp instead
+// stock bool TF2_SetPlayerResourceData(int client, TFResourceType type, any value)
+// {
+// 	if (!IsClientConnected(client))
+// 	{
+// 		return false;
+// 	}
+// 
+// 	int offset = FindSendPropInfo("CTFPlayerResource", TFResourceNames[type]);
+// 
+// 	if (offset < 1)
+// 	{
+// 		return false;
+// 	}
+// 
+// 	int entity = TF2_GetResourceEntity();
+// 
+// 	if (entity == -1)
+// 	{
+// 		return false;
+// 	}
+// 
+// 	SetEntData(entity, offset + (client*4), value);
+// 
+// 	return true;
+// }
 
 /**
  * Removes all weapons from a client's weapon slot
