@@ -5,11 +5,21 @@
 #pragma semicolon 1
 #pragma newdecls required
 
+// #define TF2C
+#define OF
+
 #include <sourcemod>
 #include <regex>
 #include <sdktools>
 #include <sdkhooks>
-#include <tf2_stocks>
+#if defined TF2C
+    #include <tf2c>
+#elseif defined OF
+    #include <openfortress>
+#else
+    #include <tf2_stocks>
+#endif
+
 // external incs
 #include <achievements>
 #include <morecolors>
@@ -27,9 +37,15 @@
 #pragma semicolon 1
 #pragma newdecls required
 
-#define PLUGIN_VERSION  "5.4.0"
+#define PLUGIN_VERSION  "5.5.0"
 
-#define UPDATE_URL      "https://raw.githubusercontent.com/sapphonie/StAC-tf2/master/updatefile.txt"
+#if defined TF2C
+    #define UPDATE_URL      "https://raw.githubusercontent.com/sapphonie/StAC-tf2/master/updatefile_tf2c.txt"
+#elseif defined OF
+    #define UPDATE_URL      "https://raw.githubusercontent.com/sapphonie/StAC-tf2/master/updatefile_of.txt"
+#else
+    #define UPDATE_URL      "https://raw.githubusercontent.com/sapphonie/StAC-tf2/master/updatefile.txt"
+#endif
 
 public Plugin myinfo =
 {
@@ -78,7 +94,7 @@ public void OnPluginStart()
 
     if (MaxClients > TFMAXPLAYERS)
     {
-        SetFailState("[StAC] This plugin (and TF2 in general) does not support more than 33 players (32 + 1 for STV). Aborting!");
+        SetFailState("[StAC] This plugin (and TF2 in general) does not support more than %i players. Aborting!", TFMAXPLAYERS);
     }
 
     LoadTranslations("common.phrases");
@@ -120,6 +136,8 @@ public void OnPluginStart()
 
     // hook sv_cheats so we can instantly unload if cheats get turned on
     HookConVarChange(FindConVar("sv_cheats"), GenericCvarChanged);
+    // hook host_timescale so we don't ban ppl if it's not default
+    HookConVarChange(FindConVar("host_timescale"), GenericCvarChanged);
     // hook wait command status for tbot
     HookConVarChange(FindConVar("sv_allow_wait_command"), GenericCvarChanged);
     // hook these for pingmasking stuff
