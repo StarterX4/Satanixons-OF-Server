@@ -1,0 +1,64 @@
+{
+  "type": "srcds",
+  "data": {
+    "ip": {
+      "type": "string",
+      "desc": "What IP to bind the server to",
+      "display": "IP",
+      "required": true,
+      "value": "10.0.0.253"
+    },
+    "map": {
+      "type": "string",
+      "desc": "Open Fortress Map to load",
+      "display": "Map",
+      "required": true,
+      "value": "dm_purple"
+    },
+    "port": {
+      "type": "integer",
+      "desc": "What port to bind the server to",
+      "display": "Port",
+      "required": true,
+      "value": 27017
+    },
+    "game": {
+      "type": "string",
+      "desc": "What game/mod to run",
+      "display": "Game",
+      "required": true,
+      "value": "open_fortress"
+    },
+    "args": {
+      "type": "string",
+      "desc": "Additional arguments to pass to the starting command",
+      "display": "Args",
+      "required": true,
+      "value": "+sv_clockcorrection_msecs 25 -timeout 10 -tickrate 108 +sv_pure -1 -tvdisable -nohltv +mapcyclefile mapcycle_dm_purple.txt -maxplayers 32 +servercfgfile server1.cfg"
+    }
+  },
+  "display": "Open Fortress (DM_Purple)",
+  "environment": {
+    "type": "tty"
+  },
+  "supportedEnvironments": [
+    {
+      "type": "tty"
+    }
+  ],
+  "install": [
+    {
+      "appId": "244310",
+      "type": "steamgamedl"
+    }
+  ],
+  "id": "of-srcds1",
+  "run": {
+    "command": "sudo -u steam screen -m -S OF_Server1 /home/steam/sdk2013/srcds_run +ip ${ip} +port ${port} -game ${game} -console +sv_lan 0 +map ${map} -norestart ${args}",
+    "stop": "exit"
+  },
+  "requirements": {
+    "os": "linux",
+    "arch": "amd64"
+  }
+}

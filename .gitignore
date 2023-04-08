@@ -34,3 +34,4 @@ compile.dat
 clientprefs-sqlite.sq3
 test.smx
 logs/
+OUTDIR/
